@@ -36,6 +36,8 @@
 
 ## Table of Contents
 
+- Minion Related Patch Notes
+
 - [Necronomicon](https://github.com/Mattc33/Necronomicon/blob/master/Necronomicon.md)
 
   - The Basics
