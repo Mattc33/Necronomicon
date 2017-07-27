@@ -191,9 +191,61 @@ http://poedb.tw/us/mon.php?n=Goatman+Fire-raiser
 | Defense   | 140%                                     |
 | Range     | 1~2 screens away                         |
 | Videos    | Abyss Kaom, https://www.youtube.com/watch?v=YgwONmsBaJI |
-| Locations | Canyon, shaped canyon Gorge, Plateau, any map that rolls with goatman or animals |
+| Locations | Canyon, shaped canyon, Gorge, Plateau, any map that rolls with goatman or animals |
+
+---
 
 ### Ice
+
+---
+
+#### Undying Grapplers
+
+<img src="https://i.gyazo.com/44f7d928836a3a2ace2b95850efba791.png" height="300" />
+
+These guys are one of the few melee base types that is viable and its only due to their massive discharge damage. They are only usable with the Victario Charity shield with Necro Aegis. You need to combine that with a flood of minions, lots of zombies and srs to generate charges for them to discharge. With the Victario Charity you will most likely get more frenzy charges so our discharge element will be mostly cold.
+
+- As far as I can tell they don't get empowered if your other minions die
+- Deals 441 to 1322 Lightning Damage per Power Charge
+- Deals 627 to 940 base Fire Damage per Endurance Charge
+- Deals 513 to base Cold Damage per Frenzy Charge
+
+http://poedb.tw/us/mon.php?n=Undying+Grappler
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | Flicker strike and Discharge             |
+| Tags      | [Minion, Spell, AOE, Fire, Ice, Lightning] |
+| Implicit  | Empowered as Kin Slain, Uses Flicker Strike, Casts Discharge |
+| Damage    | 100%                                     |
+| Defense   | 100% \| 20 Fire Res, 20 Cold Res, 20 Lightning Res, 20 Chaos Res |
+| Range     | 0~2 screens away                         |
+| Videos    |                                          |
+| Locations | Vaal Pyramid, Lab(merc), Lab(uber), Residence |
+
+---
+
+#### Merveil Blessed
+
+[Insert Image here]
+
+A viable cold based spectre. Faster proj is needed b/c their projectiles seem to be too short for clearing without them. They consistently freeze rares and even bosses. These would be great general mapping choice due to their damage and increased survivability of freeze/chilling everything . They are rather hard to find naturally.
+
+- Frostbolt pierces 100% by default
+- GMP/LMP seems to create overlapping "waves" unsure if the damage stacks
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | Frost bolt and sea witch wave            |
+| Tags      | [Minion, Projectile, Spell, AOE, Cold]   |
+| Implicit  | N/A                                      |
+| Damage    | 102%                                     |
+| Defense   | 144% \| 0 Fire Res, 75% Cold Res, 0 Lightning Res, 0 Chaos Res |
+| Range     | 0~1 screens away, 0-2 screens away if faster projectile support |
+| Videos    | https://www.youtube.com/watch?v=uuxqOE2SQN0 |
+| Locations | Courtyard, Scriptorium, Beach, Strand,   |
+
+---
 
 ### **Lightning**
 
