@@ -38,6 +38,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+[TOC]
+
 # Necronomicon
 
 ---
@@ -131,6 +133,8 @@ Most minions will have a base crit chance of 5% with a 130% crit multiplier. Cer
 ### Minion Accuracy?
 
 Although minions base accuracy is mostly unknown. They should follow the same rules as players do. Spell hits 100% of the time. And attacks are based off of an unknown base accuracy value. It could be minions follows the same accuracy formula that players use. 
+
+If there is a level difference between the monster and your minions they will either have reduced accuracy against monsters with higher level(b/c they have more evasion) and your minions will have increased accuracy against monsters with lower level(b/c their accuracy value will be greater then the impact of the mob's evasion)
 
 ---
 
