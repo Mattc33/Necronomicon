@@ -20,7 +20,20 @@
     - [Conduit](#conduit)
     - [Elemental Equilibrium](#elemental-equilibrium)
   - [Ascendancy Notables](#ascendancy-notables)
+    - [Commander of Darkness](#commander-of-darkness)
+    - [Beacon of Corruption](#beacon-of-corruption)
+    - [Mistress of Sacrifice](#mistress-of-sacrifice)
+    - [Soul Weaver](#soul-weaver)
+    - [Flesh Binder](#flesh-binder)
+    - [Spirit Eater](#spirit-eater)
   - [Minion Mechanics](#minion-mechanics)
+    - [Minions and Support Gem Swapping](#minions-and-support-gem-swapping)
+    - [On Raise Spectre Zone level scaling](#on-raise-spectre-zone-level-scaling)
+    - [Monster's and their AI and Mana use](#monsters-and-their-ai-and-mana-use)
+    - [Minions and On-Kill effects](#minions-and-on-kill-effects)
+    - [Frenzy, Power, Endurance Charges](#frenzy-power-endurance-charges)
+    - [Raise Spectre and Desecrate (How to raise high level spectre easier)](#raise-spectre-and-desecrate-how-to-raise-high-level-spectre-easier)
+    - [Soul Eater and Minions(Unending Hunger Jewel)](#soul-eater-and-minionsunending-hunger-jewel)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
