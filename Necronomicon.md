@@ -14,6 +14,7 @@
     - [Does Stats like Dex, Int, and Str affect minions?](#does-stats-like-dex-int-and-str-affect-minions)
     - [What are minions Resistances?](#what-are-minions-resistances)
     - [Can Minions Crit?](#can-minions-crit)
+    - [Minion Accuracy?](#minion-accuracy)
   - [Passive Nodes](#passive-nodes)
     - [Minion Instability](#minion-instability)
     - [Necromantic Aegis](#necromantic-aegis)
@@ -124,6 +125,12 @@ What this means is minions in general are much tankier now in all situations.
 ### Can Minions Crit?
 
 Most minions will have a base crit chance of 5% with a 130% crit multiplier. Certain monsters raised with raise spectre may have more then the base. 
+
+---
+
+### Minion Accuracy?
+
+Although minions base accuracy is mostly unknown. They should follow the same rules as players do. Spell hits 100% of the time. And attacks are based off of an unknown base accuracy value. It could be minions follows the same accuracy formula that players use. 
 
 ---
 
