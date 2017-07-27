@@ -251,7 +251,61 @@ A viable cold based spectre. Faster proj is needed b/c their projectiles seem to
 
 ### **Lightning**
 
+---
+
+#### Stygian Revenant
+
+<img src="https://i.gyazo.com/0f88487f66abc97a54931035b6acbf36.png" height="250" />
+
+They have an interesting interaction with sire of shards. Putting them in there gives it a free GMP and they fire their spells forward despite the sire of shards nova ability. They have a wonky AI and skitter around a lot but they deal a lot of damage since their base damage on the projectile is high. They have a somewhat narrow field of attack unless the chain support gem is used.
+
+-   chain is necessary for clear
+-   Adding projectile with add to the end of the "volley", think barrage
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | Monster Projectile Spell (Some kind of lightning barrage projectile), Default Attack |
+| Tags      | [Minion, Projectile, Spell, Lightning]   |
+| Implicit  | N/A                                      |
+| Damage    | 140%                                     |
+| Defense   | 182% \| 0 Fire Res, 0 Cold Res, 75 Lightning Res, 0 Chaos Res |
+| Range     | 0~2 screens away                         |
+| Videos    |                                          |
+| Locations | The Harvest,                             |
+
+---
+
 ### **Physical**
+
+---
+
+#### Knitted Horror
+
+<img src="https://i.gyazo.com/a12209a99f4dd8c84f42aafc465db06d.png" height="250" />
+
+These mobs are really interesting. They are actually 2 monsters in one. The archers that are on it's back shoot puncture projectiles while the main body can melee independently. They are 100% Pierce already so you cannot chain the projectiles. Their projectile have a fixed length so slower proj will not make it any shorter. 
+
+This spectre is also insanely tanky. 
+
+-   2 mobs in one archers on the back, melee "mount" at the bottom
+-   uses puncture with a fixed distance
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | Puncture, Default Attack                 |
+| Tags      | [Minion, Projectile, Attack, Duration]   |
+| Implicit  | Uses Puncture                            |
+| Damage    | 98%                                      |
+| Defense   | 225% \| 0 Fire Res, 0 Cold Res, 75 Lightning Res, 0 Chaos Res |
+| Range     | 0~2 screens away                         |
+| Videos    | https://www.youtube.com/watch?v=uvWUTo6sXbM |
+| Locations | Dried Lake,                              |
+
+---
+
+#### Kitava's Herald
+
+---
 
 ### **Chaos**
 
