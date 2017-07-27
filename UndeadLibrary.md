@@ -115,6 +115,8 @@ For example any monster that has the implicit "Proximity Shield" will grant a bu
 
 ## DPS Spectres (Clearing)
 
+> Spectre used most of the time as clearing maps is a large portion of the game.
+>
 > Please note I am not 100% clear on the Damage and Defense percentages, I believe this is based off their base stat value at whatever level they were raised.
 
 ---
@@ -135,9 +137,10 @@ http://poedb.tw/us/mon.php?n=Flame+Sentinel
 | --------- | ---------------------------------------- |
 | Uses      | 3 fireballs with alternating supports. Regular => with LMP => with Fork |
 | Tags      | [Minion, Projectile, Spell, AOE, Fire]   |
+| Implicit  | Cast Augmented Fireballs                 |
 | Damage    | 120%                                     |
-| Defense   | 180%                                     |
-| Range     | 1~2 screens away                         |
+| Defense   | 180% \| 0 Fire Res, 75% Cold Res, 0 Lightning Res, 0 Chaos Res |
+| Range     | 0~2 screens away                         |
 | Videos    | Maze Boss, https://www.youtube.com/watch?v=uLuxvXu7MpQ&t=2m45s |
 | Locations | Eternal Laboratory, Ramparts, Racecourse, Quay, Arsenal, Museum, Factory. Plaza, Colonnade, Courtyard |
 
@@ -145,11 +148,49 @@ http://poedb.tw/us/mon.php?n=Flame+Sentinel
 
 #### Undying Incinerators
 
+<img src="https://i.gyazo.com/1edec8672ae92d2c19e66805e424d762.png" height="300" />
+
 Their fireballs do not have as big of a damage range as flame sentinels but their casting animation and general cast speed is superior. They also throw down firetraps which is a huge burst of damage. These guys scale extremely well with cast speed. There is also an interesting interaction with spell echo and their trap. Causes them to throw two traps down, with cluster trap you will get 6 traps per cast. They do have a huge drawback thou. They are squishy and they explode and die at low life which doesn't help.
+
+- Spell echo and cluster traps will cause them to cast 6 traps at once
 
 http://poedb.tw/us/mon.php?n=Undying+Incinerator
 
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | Fireball, Firetrap and Suicide Explosion(at low life) |
+| Tags      | [Minion, Projectile, Spell, AOE, Fire, Trap] |
+| Implicit  | Throws Fire Bombs, Explodes when on Low Life, immune_to_lava_damage |
+| Damage    | 100%                                     |
+| Defense   | 100% \| 75% Fire Res , 0 Cold Res, 0 Lightning Res, 0 Chaos Res |
+| Range     | 0~2 screens away                         |
+| Videos    |                                          |
+| Locations |                                          |
 
+---
+
+#### Goatman Fire-Raiser
+
+<img src="https://i.gyazo.com/117a005196ca5bbf796b0098fc748c14.png" height="300" />
+
+These guys has some of the highest damage potential possible. They have a huge damage range and their implicit of reduced cast speed is mostly countered by spell echo and stacking castspeed on them. They shoot their fireballs at long range and when they enter medium range they shoot their magma orbs. They will also occasionally cast molten shell which gives them massive armor and a huge burst of damage if they are on top of bosses. Due to magma orb mechanics the area between bounces can overlap dealing double the damage to targets with a larger hitbox(kuduku sized or bigger).
+
+- iAOE will increase the damage overlap area between bounces
+- Faster projectiles will increase magma orb range
+- Slower projectile will cause magma orbs to bounce in a tighter area
+
+http://poedb.tw/us/mon.php?n=Goatman+Fire-raiser
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | fireball, magma orb, molten shell        |
+| Tags      | [Minion, Projectile, Spell, AOE, Fire]   |
+| Implicit  | 50% reduced Cast Speed                   |
+| Damage    | 100%                                     |
+| Defense   | 140%                                     |
+| Range     | 1~2 screens away                         |
+| Videos    | Abyss Kaom, https://www.youtube.com/watch?v=YgwONmsBaJI |
+| Locations | Canyon, shaped canyon Gorge, Plateau, any map that rolls with goatman or animals |
 
 ### Ice
 
