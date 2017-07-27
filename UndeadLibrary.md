@@ -41,6 +41,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+[TOC]
+
 # UnDead Library
 
 ---
@@ -351,9 +353,9 @@ http://poedb.tw/us/mon.php?n=Cannibal+Fire-eater
 
 
 
-### ---Ice
+### Ice
 
-
+---
 
 ### **Lightning**
 
