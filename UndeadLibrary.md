@@ -13,6 +13,8 @@
       - [Undying Incinerators](#undying-incinerators)
       - [Goatman Fire-Raiser](#goatman-fire-raiser)
     - [Ice](#ice)
+      - [Undying Grapplers](#undying-grapplers)
+      - [Merveil Blessed](#merveil-blessed)
     - [**Lightning**](#lightning)
     - [**Physical**](#physical)
     - [**Chaos**](#chaos)
