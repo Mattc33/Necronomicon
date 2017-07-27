@@ -21,10 +21,10 @@
       - [Knitted Horror](#knitted-horror)
       - [Kitava's Herald](#kitavas-herald)
     - [**Chaos**](#chaos)
-    - [**DPS Spectres (Single Target)**](#dps-spectres-single-target)
+  - [DPS Spectres (Single Target)](#dps-spectres-single-target)
     - [**Fire**](#fire)
       - [Cannibal Fire-Eater](#cannibal-fire-eater)
-    - [Ice](#ice)
+    - [Ice](#ice-1)
     - [**Lightning**](#lightning-1)
     - [**Physical**](#physical-1)
       - [Slashed Miscreation](#slashed-miscreation)
@@ -318,7 +318,7 @@ This spectre is also insanely tanky.
 
 ---
 
-### **DPS Spectres (Single Target)**
+## DPS Spectres (Single Target)
 
 ---
 
