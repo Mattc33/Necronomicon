@@ -24,7 +24,7 @@
     - [**DPS Spectres (Single Target)**](#dps-spectres-single-target)
     - [**Fire**](#fire)
       - [Cannibal Fire-Eater](#cannibal-fire-eater)
-    - [---Ice](#---ice)
+    - [Ice](#ice)
     - [**Lightning**](#lightning-1)
     - [**Physical**](#physical-1)
       - [Slashed Miscreation](#slashed-miscreation)
