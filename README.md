@@ -13,6 +13,8 @@
 > Official Forum Thread https://www.pathofexile.com/forum/view-thread/1617098
 >
 > *Please use the official thread if you would like to contribute/ask any minion related questions*
+>
+> *If there is any error in the guide itself please create an issue on github*
 
 **Included:**
 
