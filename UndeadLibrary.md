@@ -11,6 +11,7 @@
     - [Fire](#fire)
       - [Flame Sentinels](#flame-sentinels)
       - [Undying Incinerators](#undying-incinerators)
+      - [Goatman Fire-Raiser](#goatman-fire-raiser)
     - [Ice](#ice)
     - [**Lightning**](#lightning)
     - [**Physical**](#physical)
