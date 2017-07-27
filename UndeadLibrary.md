@@ -267,7 +267,7 @@ A viable cold based spectre. Faster proj is needed b/c their projectiles seem to
 They have an interesting interaction with sire of shards. Putting them in there gives it a free GMP and they fire their spells forward despite the sire of shards nova ability. They have a wonky AI and skitter around a lot but they deal a lot of damage since their base damage on the projectile is high. They have a somewhat narrow field of attack unless the chain support gem is used.
 
 -   chain is necessary for clear
--   Adding projectile with add to the end of the "volley", think barrage
+-   Adding projectile will add to the end of the "volley", think barrage
 
 | Category  | Description                              |
 | --------- | ---------------------------------------- |
