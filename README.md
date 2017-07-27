@@ -39,7 +39,7 @@
 
 ## Table of Contents
 
-- Minion Related Patch Notes
+- [Minion Related Patch Notes](https://github.com/Mattc33/Necronomicon/blob/master/patchNotes.md)
 
 - [Necronomicon](https://github.com/Mattc33/Necronomicon/blob/master/Necronomicon.md)
 
