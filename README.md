@@ -24,6 +24,7 @@
 - In Depth Minion Mechanics
 - Minion related Unique items/Interesting unique interactions
 - Raise Spectre Library
+  - Very Detailed information on every useful spectre in the game from skills used, locations, videos, ect
 - Summon Golem Info
 - Skill gem Minions
 - Item Spawned Minions
@@ -56,13 +57,12 @@
   - Shields
   - Special case: Umbilicus Immortalis + Flasks
 
-- The Undead Library[Raise Spectre]
+- [The Undead Library[Raise Spectre]](https://github.com/Mattc33/Necronomicon/blob/master/UndeadLibrary.md)
 
   - What is Raise Spectre? (& Mechanics)
   - DPS Spectre(Clearing)
   - DPS Spectre(Single Target)
-  - Tanks
-  - Utility
+  - Tanks/Utility
 
 - Summon Golems
 

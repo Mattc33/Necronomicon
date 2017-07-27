@@ -1,0 +1,212 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [UnDead Library](#undead-library)
+  - [What is Raise Spectre?](#what-is-raise-spectre)
+    - [Sources of +1 Spectre?](#sources-of-1-spectre)
+    - [Implicit Values of Mobs?](#implicit-values-of-mobs)
+    - [Monster Skills?](#monster-skills)
+  - [DPS Spectres (Clearing)](#dps-spectres-clearing)
+    - [Fire](#fire)
+      - [Flame Sentinels](#flame-sentinels)
+      - [Undying Incinerators](#undying-incinerators)
+    - [Ice](#ice)
+    - [**Lightning**](#lightning)
+    - [**Physical**](#physical)
+    - [**Chaos**](#chaos)
+    - [**DPS Spectres (Single Target)**](#dps-spectres-single-target)
+    - [**Fire**](#fire)
+    - [**Ice**](#ice)
+    - [**Lightning**](#lightning-1)
+    - [**Physical**](#physical-1)
+    - [**Chaos**](#chaos-1)
+  - [**Tanks/Utility**](#tanksutility)
+    - [**Fire**](#fire-1)
+    - [**Ice**](#ice-1)
+    - [**Lightning**](#lightning-2)
+    - [**Physical**](#physical-2)
+    - [**Chaos**](#chaos-2)
+  - [**Monster Skills**](#monster-skills)
+    - [**Proximity Shield**](#proximity-shield)
+    - [**Unrighteous Fire**](#unrighteous-fire)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# UnDead Library
+
+---
+
+## What is Raise Spectre?
+
+<img src="https://i.gyazo.com/df06052ffcccc2a8352a0f768cf20741.png" height="500" />
+
+This skill raises the corpse of a slain monster or a corpse of a monster that is summoned with desecrate. The monster raised will retain all of the properties of the base monster type. Raising a rare monster will not grant it's rare modifiers. You also cannot raise unique monsters. 
+
+The core dps minion of any classical summoner builds. As of Patch 3.0 you can realistically have as many as 4-5 Spectre at once.
+
+---
+
+>  Table from poe.db
+
+| Level  | Requires Level | Intelligence | Mana Cost | Minions deal 30% less Damage | Minions have 20% less Life | Minions have 20% less Energy Shield | Experience  |
+| ------ | -------------- | ------------ | --------- | ---------------------------- | -------------------------- | ----------------------------------- | ----------- |
+| 1      | 28             | 66           | 21        | 30                           | 20                         | 20                                  | 199,345     |
+| 2      | 31             | 72           | 23        | 25                           | 19                         | 19                                  | 285,815     |
+| 3      | 34             | 79           | 24        | 21                           | 18                         | 18                                  | 401,344     |
+| 4      | 37             | 85           | 26        | 17                           | 17                         | 17                                  | 554,379     |
+| 5      | 40             | 91           | 27        | 14                           | 16                         | 16                                  | 477,437     |
+| 6      | 42             | 95           | 28        | 11                           | 15                         | 15                                  | 583,786     |
+| 7      | 44             | 100          | 29        | 8                            | 14                         | 14                                  | 710,359     |
+| 8      | 46             | 104          | 30        | 6                            | 13                         | 13                                  | 1,355,511   |
+| 9      | 48             | 108          | 31        | 4                            | 12                         | 12                                  | 1,138,877   |
+| 10     | 50             | 112          | 32        | 2                            | 11                         | 11                                  | 1,368,233   |
+| 11     | 52             | 116          | 33        | 0                            | 10                         | 10                                  | 1,638,338   |
+| 12     | 54             | 121          | 34        | -1                           | 9                          | 9                                   | 1,956,648   |
+| 13     | 56             | 125          | 35        | -2                           | 8                          | 8                                   | 3,655,184   |
+| 14     | 58             | 129          | 36        | -3                           | 7                          | 7                                   | 3,017,327   |
+| 15     | 60             | 133          | 37        | -4                           | 6                          | 6                                   | 7,759,995   |
+| 16     | 62             | 137          | 38        | -5                           | 5                          | 5                                   | 15,138,193  |
+| 17     | 64             | 142          | 39        | -6                           | 4                          | 4                                   | 26,083,825  |
+| 18     | 66             | 146          | 40        | -7                           | 3                          | 3                                   | 62,620,247  |
+| 19     | 68             | 150          | 41        | -8                           | 2                          | 2                                   | 211,708,088 |
+| **20** | **70**         | **154**      | **42**    | **-10**                      | **0**                      | **0**                               |             |
+| 21     | 72             |              | 43        | -12                          | -2                         | -2                                  |             |
+| 22     | 74             |              | 44        | -14                          | -4                         | -4                                  |             |
+| 23     | 76             |              | 44        | -16                          | -6                         | -6                                  |             |
+| 24     | 78             |              | 45        | -18                          | -8                         | -8                                  |             |
+| 25     | 80             |              | 46        | -20                          | -10                        | -10                                 |             |
+| 26     | 82             |              | 47        | -22                          | -12                        | -12                                 |             |
+| 27     | 84             |              | 48        | -24                          | -14                        | -14                                 |             |
+| 28     | 86             |              | 49        | -26                          | -16                        | -16                                 |             |
+| 29     | 88             |              | 50        | -28                          | -18                        | -18                                 |             |
+| 30     | 90             |              | 51        | -30                          | -20                        | -20                                 |             |
+
+---
+
+### Sources of +1 Spectre?
+
+1. [Midnight Bargain](https://pathofexile.gamepedia.com/Midnight_Bargain) (Up to +2)
+2. [Vis Mortis](https://pathofexile.gamepedia.com/Vis_Mortis) (+1)
+3. [Bones of Ullr](https://pathofexile.gamepedia.com/Bones_of_Ullr) (+1)
+4. [Death Attunement](https://pathofexile.gamepedia.com/Death_Attunement) (+1)
+
+---
+
+### Implicit Values of Mobs?
+
+Yes, Your spectre will gain the **Implicit Values** of Mobs. 
+
+For example if the monster has "farshot" by default. The raised spectre will also have farshot. Some unique base abilities can be used and combined with everything else poe offers in interesting ways.
+
+---
+
+### Monster Skills?
+
+First thing to note is Monster Skills **!=(Does not Equal)** Player Skills.
+
+They have their own stats, scaling, art, and even behavior.
+
+Some monsters will introduce entirely new mechanics to your playstyle.
+
+For example any monster that has the implicit "Proximity Shield" will grant a bubble that prevents any damage from the outside from damaging anything inside. The source of damage must be inside. You will tend to be near your own creatures or convocate strategically to prevent damage.
+
+---
+
+## DPS Spectres (Clearing)
+
+> Please note I am not 100% clear on the Damage and Defense percentages, I believe this is based off their base stat value at whatever level they were raised.
+
+---
+
+### Fire
+
+---
+
+#### Flame Sentinels
+
+<img src="https://i.gyazo.com/20b9fdbe02c850b5483b3973d6afef0f.png" height="300" />
+
+The first mentioned Spectre for a reason, these are the tried and true spectre for the longest time. A good balance of damage and tankiness. They come a augmented fire ball which alternates between lmp and fork and regular. They also have an amazing AI and can reach 1-2 screens away. If you are looking for a consistent spectre this is your guy. They also benefit from being able to be desecrated in many high level map zones.
+
+http://poedb.tw/us/mon.php?n=Flame+Sentinel
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | 3 fireballs with alternating supports. Regular => with LMP => with Fork |
+| Tags      | [Minion, Projectile, Spell, AOE, Fire]   |
+| Damage    | 120%                                     |
+| Defense   | 180%                                     |
+| Locations | Eternal Laboratory, Ramparts, Racecourse, Quay, Arsenal, Museum, Factory. Plaza, Colonnade, Courtyard |
+| Videos    | Maze Boss, https://www.youtube.com/watch?v=uLuxvXu7MpQ&t=2m45s |
+
+---
+
+#### Undying Incinerators
+
+Their fireballs do not have as big of a damage range as flame sentinels but their casting animation and general cast speed is superior. They also throw down firetraps which is a huge burst of damage. These guys scale extremely well with cast speed. There is also an interesting interaction with spell echo and their trap. Causes them to throw two traps down, with cluster trap you will get 6 traps per cast. They do have a huge drawback thou. They are squishy and they explode and die at low life which doesn't help.
+
+http://poedb.tw/us/mon.php?n=Undying+Incinerator
+
+
+
+### Ice
+
+### **Lightning**
+
+### **Physical**
+
+### **Chaos**
+
+---
+
+### **DPS Spectres (Single Target)**
+
+### **Fire**
+
+### **Ice**
+
+### **Lightning**
+
+### **Physical**
+
+### **Chaos**
+
+---
+
+## **Tanks/Utility**
+
+### **Fire**
+
+### **Ice**
+
+### **Lightning**
+
+### **Physical**
+
+### **Chaos**
+
+---
+
+## **Monster Skills**
+
+---
+
+### **Proximity Shield**
+
+---
+
+### **Unrighteous Fire**
+
+---
+
+
+
+
+
+
+
+
+
+
+
