@@ -23,16 +23,18 @@
     - [**Chaos**](#chaos)
     - [**DPS Spectres (Single Target)**](#dps-spectres-single-target)
     - [**Fire**](#fire)
-    - [**Ice**](#ice)
+      - [Cannibal Fire-Eater](#cannibal-fire-eater)
+    - [---Ice](#---ice)
     - [**Lightning**](#lightning-1)
     - [**Physical**](#physical-1)
-    - [**Chaos**](#chaos-1)
+      - [Slashed Miscreation](#slashed-miscreation)
+    - [Chaos](#chaos)
   - [**Tanks/Utility**](#tanksutility)
     - [**Fire**](#fire-1)
-    - [**Ice**](#ice-1)
+    - [**Ice**](#ice)
     - [**Lightning**](#lightning-2)
     - [**Physical**](#physical-2)
-    - [**Chaos**](#chaos-2)
+    - [**Chaos**](#chaos-1)
   - [**Monster Skills**](#monster-skills)
     - [**Proximity Shield**](#proximity-shield)
     - [**Unrighteous Fire**](#unrighteous-fire)
@@ -316,15 +318,73 @@ This spectre is also insanely tanky.
 
 ### **DPS Spectres (Single Target)**
 
+---
+
 ### **Fire**
 
-### **Ice**
+---
+
+#### Cannibal Fire-Eater
+
+<img src="https://i.gyazo.com/003142bfab6a145fbaffb6a525916065.png" height="250" />
+
+They have their own version of flame totems but centered on their own monster model. It deals tremendous amounts of fire damage focused into a cone.
+
+-   Self cast flame totem that repeats up to 8 times
+
+http://poedb.tw/us/mon.php?n=Cannibal+Fire-eater
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | Self Casted Flame Totem                  |
+| Tags      | [Minion, Projectile, Spell, Fire]        |
+| Implicit  | N/A                                      |
+| Damage    | 120%                                     |
+| Defense   | 144% \| 0 Fire Res, 0 Cold Res, 0 Lightning Res, 0 Chaos Res |
+| Range     | 0~1/2 screens away                       |
+| Videos    |                                          |
+| Locations | The Coast,                               |
+
+
+
+---
+
+
+
+### ---Ice
+
+
 
 ### **Lightning**
 
+---
+
 ### **Physical**
 
-### **Chaos**
+
+
+---
+
+#### Slashed Miscreation
+
+[insert image here]
+
+Since they use a physical spell we can scale these with extra physical damage. Due to this fact they pair extremely well with spirit offering which grants them a nice extra chaos bonus. The poison paired with multiple blade vortex's going off can stack damage quickly.
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | Blade Vortex, Default Attack             |
+| Tags      | [Minion,  Spell, AOE, Duration]          |
+| Implicit  | Quick                                    |
+| Damage    | 100%                                     |
+| Defense   | 150% \| 0 Fire Res, 0 Cold Res, 0 Lightning Res, 0 Chaos Res |
+| Range     | 1/2 screens away                         |
+| Videos    |                                          |
+| Locations | Demon Rolled Maps,                       |
+
+---
+
+### Chaos
 
 ---
 
