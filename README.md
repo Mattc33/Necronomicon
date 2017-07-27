@@ -36,7 +36,7 @@
 
 ## Table of Contents
 
-- Necronomicon
+- [Necronomicon](https://github.com/Mattc33/Necronomicon)
 
   - The Basics
   - Passives

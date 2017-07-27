@@ -1,3 +1,29 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Necronomicon](#necronomicon)
+  - [The Basics](#the-basics)
+    - [What stats affect Minions on the tree?](#what-stats-affect-minions-on-the-tree)
+    - [How does support gems interact with minions?](#how-does-support-gems-interact-with-minions)
+    - [How do I create Corpses?](#how-do-i-create-corpses)
+    - [How do I target Corpses?](#how-do-i-target-corpses)
+    - [How do I turn on minion life bars?](#how-do-i-turn-on-minion-life-bars)
+    - [How do I heal my minions?](#how-do-i-heal-my-minions)
+    - [Minion ToolTip](#minion-tooltip)
+    - [Does Stats like Dex, Int, and Str affect minions?](#does-stats-like-dex-int-and-str-affect-minions)
+    - [What are minions Resistances?](#what-are-minions-resistances)
+    - [Can Minions Crit?](#can-minions-crit)
+  - [Passive Nodes](#passive-nodes)
+    - [Minion Instability](#minion-instability)
+    - [Necromantic Aegis](#necromantic-aegis)
+    - [Conduit](#conduit)
+    - [Elemental Equilibrium](#elemental-equilibrium)
+  - [Ascendancy Notables](#ascendancy-notables)
+  - [Minion Mechanics](#minion-mechanics)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Necronomicon
 
 ---
