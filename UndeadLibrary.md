@@ -137,8 +137,9 @@ http://poedb.tw/us/mon.php?n=Flame+Sentinel
 | Tags      | [Minion, Projectile, Spell, AOE, Fire]   |
 | Damage    | 120%                                     |
 | Defense   | 180%                                     |
-| Locations | Eternal Laboratory, Ramparts, Racecourse, Quay, Arsenal, Museum, Factory. Plaza, Colonnade, Courtyard |
+| Range     | 1~2 screens away                         |
 | Videos    | Maze Boss, https://www.youtube.com/watch?v=uLuxvXu7MpQ&t=2m45s |
+| Locations | Eternal Laboratory, Ramparts, Racecourse, Quay, Arsenal, Museum, Factory. Plaza, Colonnade, Courtyard |
 
 ---
 
