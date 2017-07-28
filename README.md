@@ -77,6 +77,7 @@
 
   - Animated Guardian
   - Summon Skeletons
+  - Summon Skeleton Mages
   - Raise Zombie
   - Summon Raging Spirit
   - Blink Arrow/Mirror Arrow/Of Reflection Enchant
@@ -89,6 +90,13 @@
 - Minions Support Gems / Active Skills
 
 - Resources
+
+  - https://pathofexile.gamepedia.com/Minion
+  - http://poedb.tw/us/
+  - Official GGG minion spread sheet: https://docs.google.com/spreadsheets/d/1LAi5g067lGa2XdHPpGa1ae8RKe-LBnwCjE-Z384fTV4/edit#gid=1197252210
+  - Accuracy and Evasion Table: https://docs.google.com/spreadsheets/d/1kCeAy43G3LiL0NMFVEgrLy0Uf1DXMjuyx_-7hRq47y4/edit#gid=17
+  - /r/pathofexile
+  - https://www.pathofexile.com/forum/view-thread/1617098
 
   ​
 

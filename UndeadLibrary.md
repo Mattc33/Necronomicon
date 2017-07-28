@@ -131,6 +131,8 @@ For example any monster that has the implicit "Proximity Shield" will grant a bu
 
 > Spectre used most of the time as clearing maps is a large portion of the game.
 >
+> The suggested links are by far personal opinion(3.0 update). Builds vary so links will vary. 
+>
 > Please note I am not 100% clear on the Damage and Defense percentages, I believe this is based off their base stat value at whatever level they were raised.
 
 ---
@@ -147,6 +149,8 @@ The first mentioned Spectre for a reason, these are the tried and true spectre f
 
 http://poedb.tw/us/mon.php?n=Flame+Sentinel
 
+
+
 | Category  | Description                              |
 | --------- | ---------------------------------------- |
 | Uses      | 3 fireballs with alternating supports. Regular => with LMP => with Fork |
@@ -157,6 +161,24 @@ http://poedb.tw/us/mon.php?n=Flame+Sentinel
 | Range     | 0~2 screens away                         |
 | Videos    | Maze Boss, https://www.youtube.com/watch?v=uLuxvXu7MpQ&t=2m45s |
 | Locations | Eternal Laboratory, Ramparts, Racecourse, Quay, Arsenal, Museum, Factory. Plaza, Colonnade, Courtyard |
+
+-   Suggested Links:
+
+    >   Minion Damage => Spell Echo => GMP
+    >
+    >   Minion Damage => Spell Echo => GMP => Elemental Focus
+    >
+    >   **Damage:** Minion Damage => Spell Echo => GMP => Elemental Focus => Fire Penetration
+    >
+    >   **Clear:** Minion Damage => Spell Echo => GMP => Elemental Focus => Faster Projectile
+    >
+    >   ---
+    >
+    >   *Swap out GMP for Slower Projectiles on Single Target*
+    >
+    >   *Fire Penetration is normally better for any target above 15% fire resistance, which is pretty much any monster that matters*
+
+    ​
 
 ---
 
@@ -180,6 +202,34 @@ http://poedb.tw/us/mon.php?n=Undying+Incinerator
 | Range     | 0~2 screens away                         |
 | Videos    |                                          |
 | Locations |                                          |
+
+**Suggested Links:**
+
+>   Minion Damage => Spell Echo => GMP
+>
+>   Minion Damage => Spell Echo => GMP => Elemental Focus
+>
+>   **Damage:** Minion Damage => Spell Echo => GMP => Elemental Focus => Fire Penetration
+>
+>   **Clear:** Minion Damage => Spell Echo => GMP => Elemental Focus => Faster Projectile
+>
+>   ---
+>
+>   **Traps:**
+>
+>   Minion Damage => Spell Echo => Cluster Trap 
+>
+>   Minion Damage => Spell Echo => Cluster Trap ==> Trap and Mine
+>
+>   Minion Damage => Spell Echo => Cluster Trap ==> Trap and Mine ==> Fire Penetration
+>
+>   ---
+>
+>   *Swap out GMP for Slower Projectiles on Single Target*
+>
+>   *Swap out Cluster Trap for Trap Cool down on Single Target*
+>
+>   *Fire Penetration is normally better for any target above 15% fire resistance, which is pretty much any monster that matters*
 
 ---
 
@@ -205,6 +255,22 @@ http://poedb.tw/us/mon.php?n=Goatman+Fire-raiser
 | Range     | 1~2 screens away                         |
 | Videos    | Abyss Kaom, https://www.youtube.com/watch?v=YgwONmsBaJI |
 | Locations | Canyon, shaped canyon, Gorge, Plateau, any map that rolls with goatman or animals |
+
+Suggested Links:
+
+>   Minion Damage => Spell Echo => GMP
+>
+>   Minion Damage => Spell Echo => GMP => Elemental Focus
+>
+>   **Damage:** Minion Damage => Spell Echo => GMP => Elemental Focus => Fire Penetration
+>
+>   **Clear:** Minion Damage => Spell Echo => GMP => Elemental Focus => Faster Projectile
+>
+>   ------
+>
+>   *Swap out GMP for Slower Projectiles on Single Target*
+>
+>   *Fire Penetration is normally better for any target above 15% fire resistance, which is pretty much any monster that matters*
 
 ---
 
@@ -395,6 +461,8 @@ Since they use a physical spell we can scale these with extra physical damage. D
 ---
 
 ## Tanks/Utility
+
+>   Spectre types that are particularly tanky or has a great utility ability that is useful regardless of their damage potential.
 
 ---
 
