@@ -29,12 +29,14 @@
     - [**Physical**](#physical-1)
       - [Slashed Miscreation](#slashed-miscreation)
     - [Chaos](#chaos)
-  - [**Tanks/Utility**](#tanksutility)
-    - [**Fire**](#fire-1)
+  - [Tanks/Utility](#tanksutility)
+    - [Fire](#fire-1)
     - [**Ice**](#ice)
     - [**Lightning**](#lightning-2)
     - [**Physical**](#physical-2)
-    - [**Chaos**](#chaos-1)
+      - [Towering Figment](#towering-figment)
+      - [Undying Evangelist](#undying-evangelist)
+    - [Chaos](#chaos-1)
   - [**Monster Skills**](#monster-skills)
     - [**Proximity Shield**](#proximity-shield)
     - [**Unrighteous Fire**](#unrighteous-fire)
@@ -392,17 +394,54 @@ Since they use a physical spell we can scale these with extra physical damage. D
 
 ---
 
-## **Tanks/Utility**
+## Tanks/Utility
 
-### **Fire**
+---
+
+### Fire
+
+---
 
 ### **Ice**
 
+---
+
 ### **Lightning**
+
+---
 
 ### **Physical**
 
-### **Chaos**
+---
+
+#### Towering Figment
+
+---
+
+#### Undying Evangelist
+
+<img src="https://i.gyazo.com/b1dded9dfc568a5b7777c742b4c68b82.png" height="250" />
+
+Their proximity shield make these spectre the best defensive utility spectre type in the game. Anything within the shield cannot be damaged by any kind of damage that is fired from outside of the shield. Making you immune you a wide variety of attacks as long as you are standing inside the bubble. They also come with a solid damage type being a physical spell. Monsters naturally have low armor so this damage type cannot miss and cannot be mitigated well. They can also take full advantage of hatred and similar modifiers. The drawback of these spectre types in the relatively low clear speed due to the nature of their delayed skill.
+
+-   iDuration and less duration will impact proximity shield time length
+
+http://poedb.tw/us/mon.php?n=Undying+Evangelist
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | Delayed Blast, Proximity Shield          |
+| Tags      | [Minion, AOE, Spell, Duration]           |
+| Implicit  | N/A                                      |
+| Damage    | 120%                                     |
+| Defense   | 120% \| 37 Fire Res, 37 Cold Res, 37 Lightning Res, 0 Chaos Res |
+| Range     | 0~1.5 screens away                       |
+| Videos    |                                          |
+| Locations | The Sceptre of God, The Upper Sceptre of God, Museum, Courtyard |
+
+---
+
+### Chaos
 
 ---
 
