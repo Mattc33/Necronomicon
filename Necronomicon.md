@@ -244,7 +244,7 @@ Minions will gain the effects of the support gem while it is summoned. So you ca
 
 The minion gem itself is "snapshotted" to the link that you summoned it with. For example lets say u have 2 6L chests. You summon the Spectre with the first chest and the RS gem is in the upper left hand side. Go to town and swap to another chest place the RS in the same slot and it will still be summoned. Remove the gem in any place besides town and they will desummon.
 
-A tip for people low on mana is to take out support gems and summon minions with a lower mana cost then requip the gem. Same goes for Spell Echo. If you don't want the first part of the skill to echo you can remove it then reequip it later.
+A tip for people low on mana is to take out support gems and summon minions with a lower mana cost then requip the gem. Same goes for Spell Echo. If you don't want the first part of the skill to echo(The summoning of the spectre itself for example) you can remove it then reequip it later.
 
 ---
 
