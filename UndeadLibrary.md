@@ -100,6 +100,8 @@ The core dps minion of any classical summoner builds. As of Patch 3.0 you can re
 2. [Vis Mortis](https://pathofexile.gamepedia.com/Vis_Mortis) (+1)
 3. [Bones of Ullr](https://pathofexile.gamepedia.com/Bones_of_Ullr) (+1)
 4. [Death Attunement](https://pathofexile.gamepedia.com/Death_Attunement) (+1)
+5. [Queen's Decree](https://pathofexile.gamepedia.com/Queen%27s_Decree) (+1)
+6. [Queen's Escape](https://pathofexile.gamepedia.com/Queen%27s_Escape) (+1)
 
 ---
 
