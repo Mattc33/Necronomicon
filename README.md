@@ -16,7 +16,11 @@
 >
 > *If there is any error in the guide itself please create an issue on github*
 
-**Included:**
+> **Special Thanks and Collaborators:**
+>
+> - [![Completed 10 Challenges](https://web.poecdn.com/image/icons/achievements/10.png?v=12)leary93](https://www.pathofexile.com/account/view-profile/leary93) - providing video content and general minion knowledge => His [YouTube](https://www.youtube.com/channel/UCfzgUpVcv6wzrs5TwKZaGJQ) 
+> - @Minion Players - for providing minion related information on the forums and /r/pathofexile, I read these often
+> - @GGG - for making this wonderful game in which I sinked way more hours and money than I care to admit
 
 - A patch-note log of anything minion related
 - A guide on the basics mechanics of minions
