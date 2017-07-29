@@ -143,9 +143,9 @@ For example any monster that has the implicit "Proximity Shield" will grant a bu
 
 #### Flame Sentinels
 
-| Monster Form | Raise Spectre                            | Stygian Cosmetic                         |
-| ------------ | ---------------------------------------- | ---------------------------------------- |
-|              | <img src="https://i.gyazo.com/6449170efbac6984f5f640aee44a7d15.png" height="300" /> | <img src="https://i.gyazo.com/af1d46e2c3676cc300a1e69acf587b9f.png" height="300"/> |
+| Monster Form                             | Raise Spectre                            | Stygian Cosmetic                         |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| <img src="https://i.gyazo.com/666f1261ba7b9a9d5743b8d5a600aad5.png" height="300" /> | <img src="https://i.gyazo.com/6449170efbac6984f5f640aee44a7d15.png" height="300" /> | <img src="https://i.gyazo.com/af1d46e2c3676cc300a1e69acf587b9f.png" height="300"/> |
 
 
 
