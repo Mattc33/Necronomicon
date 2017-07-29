@@ -143,7 +143,11 @@ For example any monster that has the implicit "Proximity Shield" will grant a bu
 
 #### Flame Sentinels
 
-<img src="https://i.gyazo.com/20b9fdbe02c850b5483b3973d6afef0f.png" height="300" />
+| Monster Form | Raise Spectre                            | Stygian Cosmetic                         |
+| ------------ | ---------------------------------------- | ---------------------------------------- |
+|              | <img src="https://i.gyazo.com/6449170efbac6984f5f640aee44a7d15.png" height="300" /> | <img src="https://i.gyazo.com/af1d46e2c3676cc300a1e69acf587b9f.png" height="300"/> |
+
+
 
 The first mentioned Spectre for a reason, these are the tried and true spectre for the longest time. A good balance of damage and tankiness. They come a augmented fire ball which alternates between lmp and fork and regular. They also have an amazing AI and can reach 1-2 screens away. If you are looking for a consistent spectre this is your guy. They also benefit from being able to be desecrated in many high level map zones.
 
