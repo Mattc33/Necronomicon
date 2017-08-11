@@ -101,6 +101,7 @@
   - Accuracy and Evasion Table: https://docs.google.com/spreadsheets/d/1kCeAy43G3LiL0NMFVEgrLy0Uf1DXMjuyx_-7hRq47y4/edit#gid=17
   - /r/pathofexile
   - https://www.pathofexile.com/forum/view-thread/1617098
+  - To calculate Minion Damage: https://github.com/Openarl/PathOfBuilding
 
   ​
 

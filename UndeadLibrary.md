@@ -13,13 +13,13 @@
       - [Undying Incinerators](#undying-incinerators)
       - [Goatman Fire-Raiser](#goatman-fire-raiser)
     - [Ice](#ice)
+      - [Frost Sentinel](#frost-sentinel)
       - [Undying Grapplers](#undying-grapplers)
       - [Merveil Blessed](#merveil-blessed)
     - [**Lightning**](#lightning)
       - [Stygian Revenant](#stygian-revenant)
     - [**Physical**](#physical)
       - [Knitted Horror](#knitted-horror)
-      - [Kitava's Herald](#kitavas-herald)
     - [**Chaos**](#chaos)
   - [DPS Spectres (Single Target)](#dps-spectres-single-target)
     - [**Fire**](#fire)
@@ -31,9 +31,13 @@
     - [Chaos](#chaos)
   - [Tanks/Utility](#tanksutility)
     - [Fire](#fire-1)
+      - [Wicker Man](#wicker-man)
+      - [Solaris Champion](#solaris-champion)
     - [**Ice**](#ice)
     - [**Lightning**](#lightning-2)
     - [**Physical**](#physical-2)
+      - [Kitava's Herald](#kitavas-herald)
+      - [Sandworn Slaves](#sandworn-slaves)
       - [Towering Figment](#towering-figment)
       - [Undying Evangelist](#undying-evangelist)
     - [Chaos](#chaos-1)
@@ -143,11 +147,7 @@ For example any monster that has the implicit "Proximity Shield" will grant a bu
 
 #### Flame Sentinels
 
-| Monster Form                             | Raise Spectre                            | Stygian Cosmetic                         |
-| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| <img src="https://i.gyazo.com/666f1261ba7b9a9d5743b8d5a600aad5.png" height="300" /> | <img src="https://i.gyazo.com/6449170efbac6984f5f640aee44a7d15.png" height="300" /> | <img src="https://i.gyazo.com/af1d46e2c3676cc300a1e69acf587b9f.png" height="300"/> |
-
-
+<img src="https://i.gyazo.com/20b9fdbe02c850b5483b3973d6afef0f.png" height="300" />
 
 The first mentioned Spectre for a reason, these are the tried and true spectre for the longest time. A good balance of damage and tankiness. They come a augmented fire ball which alternates between lmp and fork and regular. They also have an amazing AI and can reach 1-2 screens away. If you are looking for a consistent spectre this is your guy. They also benefit from being able to be desecrated in many high level map zones.
 
@@ -254,8 +254,8 @@ http://poedb.tw/us/mon.php?n=Goatman+Fire-raiser
 | Uses      | fireball, magma orb, molten shell        |
 | Tags      | [Minion, Projectile, Spell, AOE, Fire]   |
 | Implicit  | 50% reduced Cast Speed                   |
-| Damage    | 100%                                     |
-| Defense   | 140%                                     |
+| Damage    | 100%,                                                                                                                                 Fireball[Deals 861 to 1335 Fire Damage],                                                                               Molten Shell[Deals 2698 to 4048 Fire Damage],                                                                   Magma Orb[Deals 1149 to 1531 Fire Damage] |
+| Defense   | 140%,                                                                                                                                           Molten Shell[+19399 to Armour, Shields break after 4334 total Damage is prevented] |
 | Range     | 1~2 screens away                         |
 | Videos    | Abyss Kaom, https://www.youtube.com/watch?v=YgwONmsBaJI |
 | Locations | Canyon, shaped canyon, Gorge, Plateau, any map that rolls with goatman or animals |
@@ -279,6 +279,44 @@ Suggested Links:
 ---
 
 ### Ice
+
+---
+
+#### Frost Sentinel
+
+[Insert Image here]
+
+One of the best choices for clearing maps. They seem to have an even further agro range then flame sentinels since they fire ice spears. Being an Ice element means with some critical strike chance they will freeze a lot providing safety to map clearing. With Faster Projectiles they have an excellent agro and range often firing at packs of enemies without your input allowing you to simply walk forward.
+
+- Less AOE then Flame sentinels so Pierce as the last link will help tremendously with clear speed 
+- Similar to spell casters like Flame Sentinels and Undying Incinerators they scale extremely well with cast speed
+
+http://poedb.tw/us/mon.php?n=Frost+Sentinel
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | Ice Spear                                |
+| Tags      | [Minion, Spell, Projectile, Ice]         |
+| Implicit  | Adds additional projectiles, ice spear second form damage + 50% |
+| Damage    | 120%,                                                                                                                                     IceSpear[Deals 494 to 741 Cold Damage] |
+| Defense   | 180% \| 0 Fire Res, 75 Cold Res, 0 Lightning Res, 0 Chaos Res |
+| Range     | 0~3 screens away                         |
+| Videos    |                                          |
+| Locations | Lunaris Concourse, Lunaris Temple 1, Lunaris Temple 2, Lunar maps |
+
+Suggested Links:
+
+> Minion Damage => Spell Echo => GMP
+>
+> Minion Damage => Spell Echo => GMP => Faster Projectiles
+>
+> **Damage:** Minion Damage => Spell Echo => Cold Penetration => Hypothermia => Slower Proj/Added Cold
+>
+> **Clear:** Minion Damage => Spell Echo => GMP => Faster Projectiles => Pierce
+>
+> ------
+>
+> Normally swapping out GMP for Cold penetration is enough for most map bosses. You just want to get rid of the less multiplier
 
 ---
 
@@ -327,6 +365,20 @@ A viable cold based spectre. Faster proj is needed b/c their projectiles seem to
 | Range     | 0~1 screens away, 0-2 screens away if faster projectile support |
 | Videos    | https://www.youtube.com/watch?v=uuxqOE2SQN0 |
 | Locations | Courtyard, Scriptorium, Beach, Strand,   |
+
+Suggested Links:
+
+> Minion Damage => Spell Echo => GMP
+>
+> Minion Damage => Spell Echo => GMP => Faster Projectiles
+>
+> **Damage:** Minion Damage => Spell Echo => Cold Penetration => Hypothermia => Slower Proj/Added Cold
+>
+> **Clear:** Minion Damage => Spell Echo => GMP => Faster Projectiles => Pierce
+>
+> ------
+>
+> Normally swapping out GMP for Cold penetration is enough for most map bosses. You just want to get rid of the less multiplier
 
 ---
 
@@ -381,10 +433,6 @@ This spectre is also insanely tanky.
 | Range     | 0~2 screens away                         |
 | Videos    | https://www.youtube.com/watch?v=uvWUTo6sXbM |
 | Locations | Dried Lake,                              |
-
----
-
-#### Kitava's Herald
 
 ---
 
@@ -472,6 +520,20 @@ Since they use a physical spell we can scale these with extra physical damage. D
 
 ### Fire
 
+#### Wicker Man
+
+Able to deal damage via Righteous fire and molten strike they synergies perfectly with the immolate support gem as they give them selves their own 100% uptime burn.
+
+http://poedb.tw/us/mon.php?n=Wicker+Man
+
+---
+
+#### Solaris Champion
+
+A very interesting monster. On summon they summon two animate weapons that seem to have infinite duration. They also have a [Ngamahu's Flame](https://pathofexile.gamepedia.com/Ngamahu%27s_Flame) like ability that triggers 2 spark(with a fire tornado skin) projectiles to fly out of them every time they use double strike. The sparks deals pure fire damage. Multi-strike will spend 6 sparks out.
+
+http://poedb.tw/us/mon.php?n=Solaris+Champion
+
 ---
 
 ### **Ice**
@@ -483,6 +545,48 @@ Since they use a physical spell we can scale these with extra physical damage. D
 ---
 
 ### **Physical**
+
+#### Kitava's Herald
+
+Extremely tanky and synergies well with unending hunger jewels due to their tendency to leap slam into packs. There are two ways to scale them, Focusing on their projectiles or their leapslam and cleave.
+
+---
+
+#### Sandworn Slaves
+
+[insert image here]
+
+Another type of spectre that sends out sparks on melee skill. They have a [Ngamahu's Flame](https://pathofexile.gamepedia.com/Ngamahu%27s_Flame) like ability that triggers 2 spark(with a physical tornado skin) projectiles to fly out of them every time they use cyclone. The sparks deal pure physical damage. Multi-strike will spend 6 sparks out per cyclone trigger so a whole lot of sparks will fly out. They are also on the extreme end of tankiness.
+
+- Faster Projectiles support will vastly increase the range of the sparks
+- Increased duration will increase the default spark duration of 2s
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | Default Attack, Clone                    |
+| Tags      | [Minion, Projectile, Spell, AOE, Melee]  |
+| Implicit  | N/A                                      |
+| Damage    | 128%,                                                                                                                                                    Cyclone [Deals 40% of Damage, 150% more Attack Speed],                                                       Spark [50% reduced proj speed, 2s duration, Deals 85 to 127 Physical Damage] |
+| Defense   | 440% \| 0 Fire Res, 0 Cold Res, 40 Lightning Res, 0 Chaos Res |
+| Range     | 0~1.5 screens away with the spark projectiles |
+| Videos    |                                          |
+| Locations | Desert Map, Vastiri Desert, Oasis        |
+
+Suggested Links:
+
+> Minion Damage => MultiStrike => Faster Projectiles
+>
+> Minion Damage => MultiStrike => Faster Projectiles =>
+>
+> **Damage:** 
+>
+> **Clear:** Minion Damage => MultiStrike => GMP => Faster Projectiles => Added Fire Damage
+>
+> ------
+>
+> 
+
+http://poedb.tw/us/mon.php?n=Sandworn+Slaves
 
 ---
 
