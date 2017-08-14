@@ -12,6 +12,7 @@
       - [Flame Sentinels](#flame-sentinels)
       - [Undying Incinerators](#undying-incinerators)
       - [Goatman Fire-Raiser](#goatman-fire-raiser)
+      - [Wicker Man](#wicker-man)
     - [Ice](#ice)
       - [Frost Sentinel](#frost-sentinel)
       - [Undying Grapplers](#undying-grapplers)
@@ -31,7 +32,6 @@
     - [Chaos](#chaos)
   - [Tanks/Utility](#tanksutility)
     - [Fire](#fire-1)
-      - [Wicker Man](#wicker-man)
       - [Solaris Champion](#solaris-champion)
     - [**Ice**](#ice)
     - [**Lightning**](#lightning-2)
@@ -278,6 +278,54 @@ Suggested Links:
 
 ---
 
+#### Wicker Man
+
+One of the best Melee Spectre to come from the 3.0 Update. They cast a monster version of righteous fire that burns with a flat damage that scales with their level. Unlike burned miscreation's they have an amazing filler skill in the form of molten strike. There are two ways to build this spectre burn or single target melee.
+
+- Their Righteous Fire **WILL NOT** scale with monster life rather it is a flat amount that increases with levels
+- Lvl 66 has a flat damage of 753 
+- Lvl 76 has a flat damage of 1677
+- https://www.reddit.com/r/pathofexile/comments/6tdt6q/wicker_man_spectres_gem_setup/
+
+http://poedb.tw/us/mon.php?n=Wicker+Man
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | Default Attack, Righteous Fire, Molten Strike |
+| Tags      | [Minion, Projectile, Spell, AOE, Fire, Melee] |
+| Implicit  | N/A                                      |
+| Damage    | 150%,                                                                                                                                          Righteous Fire,                                                                                                                                      Molten Strike                                                                                                                                      [Projectiles deal 40% less Damage, 10% increased physical Damage, Deals 120% Damage, 4 Additional Projectiles, 60% of Physical Damage Converted to Fire Damage] |
+| Defense   | 225%                                     |
+| Range     | 0-.6 screens away                        |
+| Videos    |                                          |
+| Locations | Promenade, Ravaged Square, The Canals    |
+
+Suggested Links:
+
+> **Burn:**
+>
+> Minion Damage => Elemental Focus => iAOE
+>
+> Minion Damage  => Elemental Focus => iAOE => Controlled Destruction
+>
+> Minion Damage  => Elemental Focus => iAOE => Controlled Destruction => Increased Burning Damage 
+>
+> **Molten Strike:**
+>
+> Minion Damage => MultiStrike => iAOE
+>
+> Minion Damage => MultiStrike => iAOE => Weapon Elemental Damage
+>
+> Minion Damage => MultiStrike => iAOE => Weapon Elemental Damage => Elemental Focus
+>
+> ------
+>
+> *Swap out IAOE for Conc on bosses*
+>
+> 
+
+---
+
 ### Ice
 
 ---
@@ -520,12 +568,6 @@ Since they use a physical spell we can scale these with extra physical damage. D
 
 ### Fire
 
-#### Wicker Man
-
-Able to deal damage via Righteous fire and molten strike they synergies perfectly with the immolate support gem as they give them selves their own 100% uptime burn.
-
-http://poedb.tw/us/mon.php?n=Wicker+Man
-
 ---
 
 #### Solaris Champion
@@ -577,10 +619,6 @@ Suggested Links:
 > Minion Damage => MultiStrike => Faster Projectiles
 >
 > Minion Damage => MultiStrike => Faster Projectiles =>
->
-> **Damage:** 
->
-> **Clear:** Minion Damage => MultiStrike => GMP => Faster Projectiles => Added Fire Damage
 >
 > ------
 >
