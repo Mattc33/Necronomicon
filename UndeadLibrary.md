@@ -13,6 +13,7 @@
       - [Undying Incinerators](#undying-incinerators)
       - [Goatman Fire-Raiser](#goatman-fire-raiser)
       - [Wicker Man](#wicker-man)
+      - [Solar Guard](#solar-guard)
     - [Ice](#ice)
       - [Frost Sentinel](#frost-sentinel)
       - [Undying Grapplers](#undying-grapplers)
@@ -46,6 +47,8 @@
     - [**Unrighteous Fire**](#unrighteous-fire)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 
 [TOC]
 
@@ -182,7 +185,6 @@ http://poedb.tw/us/mon.php?n=Flame+Sentinel
     >
     >   *Fire Penetration is normally better for any target above 15% fire resistance, which is pretty much any monster that matters*
 
-    ​
 
 ---
 
@@ -322,7 +324,45 @@ Suggested Links:
 >
 > *Swap out IAOE for Conc on bosses*
 >
-> 
+
+---
+
+#### Solar Guard
+
+[insert image here]
+
+Like Undying Incinerators their version of fireball seems to scale extremely well with cast speed. They are even more tanky then the sentinels. They also come with a special beam cannon that fires off every 8s or so. In my opinion due to their ai, dmg, tank, and ease of desecration they are the top tier spectre of the 3.0 update.
+
+http://poedb.tw/us/mon.php?n=Solar+Guard
+
+| Category  | Description                              |
+| --------- | ---------------------------------------- |
+| Uses      | SpecialBeamCannon, Fireball              |
+| Tags      | [Minion, Projectile, Spell, AOE, Fire]   |
+| Implicit  | Extra fire damage (60% extra phy to fire) |
+| Damage    | 112%,                                                                                                                                                       Special Beam Cannon[ Deals 1505 to 2258 Fire Damage],                                                            Fireball [ Deals 776 to 1202 Fire Damage |
+| Defense   | 198% \| 75 Fire Res, 0 Cold Res, 0 Lightning Res, 0 Chaos Res |
+| Range     | 0~2 screens away                         |
+| Videos    | [Shaped Race Course](https://www.youtube.com/watch?v=HpTJTOUfC4E) |
+| Locations | Wharf,  Channel,  Plaza,  Shrine,  Collonade,  Shipyard,  Ghetto,  Ramparts,  Promenade, Highgarden,  Arcade,  Graveyard,  Bazaar,  Castle Ruins,  Chateau,  Cemetery,  Arsenal,  Racecourse,  Courtyard |
+
+- Suggested Links:
+
+  > Minion Damage => Spell Echo => GMP
+  >
+  > Minion Damage => Spell Echo => GMP => Elemental Focus
+  >
+  > **Damage:** Minion Damage => Spell Echo => GMP => Elemental Focus => Fire Penetration
+  >
+  > **Clear:** Minion Damage => Spell Echo => GMP => Elemental Focus => Faster Projectile
+  >
+  > ------
+  >
+  > *Swap out GMP for Slower Projectiles on Single Target*
+  >
+  > *Fire Penetration is normally better for any target above 15% fire resistance, which is pretty much any monster that matters*
+
+
 
 ---
 

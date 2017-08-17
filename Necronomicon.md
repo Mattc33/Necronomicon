@@ -192,9 +192,9 @@ http://pathofexile.gamepedia.com/Elemental_Equilibrium
 
 ### Commander of Darkness
 
-<img src="https://i.gyazo.com/e0950c1f2fdc7abec47a56c56526a4b6.png" height="300" />
+<img src="https://i.gyazo.com/2c5441b9f9ddb7ca2c1383d2aa3df6bc.png" height="300" />
 
-This ascendancy node grants 20% resistances for any allies affected by your auras including yourself. Each aura grants 10% damage and 5%cast/atkspd. The damage and cast/atkspd you get is also buffed by aura effectiveness nodes. Because of this these 2 points has incredible value defensively and offensively. A must get for any summoner.
+This ascendancy node grants 20% resistances for any allies affected by your auras including yourself. A 30% increased Damage, and each aura granting cast and attack speed to your allies. A great point to pick up for the extra resistances.
 
 http://pathofexile.gamepedia.com/Commander_of_Darkness
 
