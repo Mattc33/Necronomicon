@@ -6,7 +6,7 @@
 
 > Hi Guys. Long time summoner player here. 
 >
-> **mattc3303** on the official forums, r/pathofexile, and official Dischord
+> **mattc3303** on the official forums, /r/pathofexile, and official Dischord
 >
 > I think it is about time we Necromancers compile far flung details on the mechanics of minions all in one place. 
 >
@@ -18,7 +18,9 @@
 
 **Special Thanks and Collaborators:**
 
-> - [![Completed 10 Challenges](https://web.poecdn.com/image/icons/achievements/10.png?v=12)leary93](https://www.pathofexile.com/account/view-profile/leary93) - providing video content and general minion knowledge => His [YouTube](https://www.youtube.com/channel/UCfzgUpVcv6wzrs5TwKZaGJQ) 
+> - [@leary93](https://www.pathofexile.com/account/view-profile/leary93) - providing video content and general minion knowledge => His [YouTube](https://www.youtube.com/channel/UCfzgUpVcv6wzrs5TwKZaGJQ) 
+> - [@Angryafrican](https://www.pathofexile.com/account/view-profile/Angryafrican) - for being a great minion twitch streamer => his [Twitch](https://www.twitch.tv/angryaa)
+> - [@Ghazzy](https://www.pathofexile.com/account/view-profile/Ghazzy) - for being a great minion twitch streamer and for his help introducing summoners to new players => his [Twitch](https://www.twitch.tv/ghazzy)
 > - @Minion Players - for providing minion related information on the forums and /r/pathofexile, I read these often
 > - @GGG - for making this wonderful game in which I sinked way more hours and money than I care to admit
 

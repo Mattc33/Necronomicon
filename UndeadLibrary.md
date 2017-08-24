@@ -134,6 +134,24 @@ For example any monster that has the implicit "Proximity Shield" will grant a bu
 
 ---
 
+### On Desecrate Table Trick(How to get higher level spectre more easily)
+
+Since the Atlas of Worlds update(2.4.0). At least this was when I first started to notice this trick. Spectre you have previously summoned are added to the desecrate table. 
+
+What I mean by this is if you go into Act 8 Solaris temple and summon a solar guard. Bring that into a map that **can** naturally spawn them the action of doing the initial summoning seems to add that potential corpse to the corpses you desecrate. This seems to apply to most minions some exceptions seem to be...
+
+- Knitted Horrors => These cannot be desecrated at all
+- Anything that can't leave a corpse. Think those balls of ice or water elemental monsters. You **cannot** desecrate or use these are spectre
+- Frost Sentinels => It seems like even with lunar modded maps they don't seem to spawn in 100%
+
+> 
+>
+> [Video Guide on how to perform this trick](https://www.youtube.com/watch?v=JUQarQBWbrY)
+>
+> 
+
+---
+
 ## DPS Spectres (Clearing)
 
 > Spectre used most of the time as clearing maps is a large portion of the game.
@@ -361,7 +379,6 @@ http://poedb.tw/us/mon.php?n=Solar+Guard
   > *Swap out GMP for Slower Projectiles on Single Target*
   >
   > *Fire Penetration is normally better for any target above 15% fire resistance, which is pretty much any monster that matters*
-
 
 
 ---
