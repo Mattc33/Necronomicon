@@ -33,7 +33,6 @@
     - [Monster's and their AI and Mana use](#monsters-and-their-ai-and-mana-use)
     - [Minions and On-Kill effects](#minions-and-on-kill-effects)
     - [Frenzy, Power, Endurance Charges](#frenzy-power-endurance-charges)
-    - [Raise Spectre and Desecrate (How to raise high level spectre easier)](#raise-spectre-and-desecrate-how-to-raise-high-level-spectre-easier)
     - [Soul Eater and Minions(Unending Hunger Jewel)](#soul-eater-and-minionsunending-hunger-jewel)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -301,21 +300,6 @@ If a minion does the kill, the on kill effect will not be attributed to you. How
 > - 200% increased critical strike chance per power charge
 
 *Please note that minions has 3 charges max by default unless overridden by a specific mechanic*
-
----
-
-### Raise Spectre and Desecrate (How to raise high level spectre easier)
-
-1. Have the spectre you want to raise already summoned
-2. Going into a higher tier/lvl map and desecrating
-3. As long as the map mod did not roll "area is inhabited by x mod" the spectre you have already summoned should show up. For example if you roll "area is inhabited by animals" and the spectre your going for is not an animal it will not spawn via desecrate.
-
-For example: Raise flame sentinel in eternal lab -> open a t16 map -> spam desecrate -> flame sentinel corspes should show up -> enjoy your facerolling T16 spectre
-
-* Make sure to have at least a level 19 desecrate so the corpse level will guaranteed to match with the high level zone area
-* There are some maps that can't seem to spawn certain mobs I guess this is tied to tilesets?
-* Other summoners have noted T16 maps can mostly spawn anything 
-* One tip is to link Desecrate to Spell echo, you will summon double the amount of corspes at a time making this process much faster
 
 ---
 

@@ -7,6 +7,7 @@
     - [Sources of +1 Spectre?](#sources-of-1-spectre)
     - [Implicit Values of Mobs?](#implicit-values-of-mobs)
     - [Monster Skills?](#monster-skills)
+    - [On Desecrate Table Trick(How to get higher level spectre more easily)](#on-desecrate-table-trickhow-to-get-higher-level-spectre-more-easily)
   - [DPS Spectres (Clearing)](#dps-spectres-clearing)
     - [Fire](#fire)
       - [Flame Sentinels](#flame-sentinels)
