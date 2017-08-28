@@ -408,7 +408,7 @@ http://poedb.tw/us/mon.php?n=Frost+Sentinel
 | Defense   | 180% \| 0 Fire Res, 75 Cold Res, 0 Lightning Res, 0 Chaos Res |
 | Range     | 0~3 screens away                         |
 | Videos    |                                          |
-| Locations | Lunaris Concourse, Lunaris Temple 1, Lunaris Temple 2, Lunar maps |
+| Locations | Lunaris Concourse, Lunaris Temple 1, Lunaris Temple 2, Lunar maps, Channel |
 
 Suggested Links:
 
