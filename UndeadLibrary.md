@@ -141,9 +141,10 @@ Since the Atlas of Worlds update(2.4.0). At least this was when I first started 
 
 What I mean by this is if you go into Act 8 Solaris temple and summon a solar guard. Bring that into a map that **can** naturally spawn them the action of doing the initial summoning seems to add that potential corpse to the corpses you desecrate. This seems to apply to most minions some exceptions seem to be...
 
-- Knitted Horrors => These cannot be desecrated at all
+- **Knitted Horrors** : These cannot be desecrated at all
 - Anything that can't leave a corpse. Think those balls of ice or water elemental monsters. You **cannot** desecrate or use these are spectre
-- Frost Sentinels => It seems like even with lunar modded maps they don't seem to spawn in 100%
+- **Frost Sentinels** : The Act 8 version is bugged. If you find these guys in maps they will be a lot easier to desecrate in higher level maps.
+- **Kitava's Herald** : Please note the **act 10 version is bugged** use the **act 5** version to desecrate higher level versions of this spectre
 
 > 
 >
@@ -359,7 +360,7 @@ http://poedb.tw/us/mon.php?n=Solar+Guard
 | Uses      | SpecialBeamCannon, Fireball              |
 | Tags      | [Minion, Projectile, Spell, AOE, Fire]   |
 | Implicit  | Extra fire damage (60% extra phy to fire) |
-| Damage    | 112%,                                                                                                                                                       Special Beam Cannon[ Deals 1505 to 2258 Fire Damage],                                                            Fireball [ Deals 776 to 1202 Fire Damage |
+| Damage    | 112%,                                                                                                                                                       Special Beam Cannon[ Deals 1505 to 2258 Fire Damage \| 0% chance to crit],                                                            Fireball [ Deals 776 to 1202 Fire Damage \| 6% chance to crit] |
 | Defense   | 198% \| 75 Fire Res, 0 Cold Res, 0 Lightning Res, 0 Chaos Res |
 | Range     | 0~2 screens away                         |
 | Videos    | [Shaped Race Course](https://www.youtube.com/watch?v=HpTJTOUfC4E) |
@@ -380,6 +381,12 @@ http://poedb.tw/us/mon.php?n=Solar+Guard
   > *Swap out GMP for Slower Projectiles on Single Target*
   >
   > *Fire Penetration is normally better for any target above 15% fire resistance, which is pretty much any monster that matters*
+
+
+*extra notes*
+
+<img src="http://i.imgur.com/NrZNqOe.png" >
+
 
 
 ---
@@ -404,7 +411,7 @@ http://poedb.tw/us/mon.php?n=Frost+Sentinel
 | Uses      | Ice Spear                                |
 | Tags      | [Minion, Spell, Projectile, Ice]         |
 | Implicit  | Adds additional projectiles, ice spear second form damage + 50% |
-| Damage    | 120%,                                                                                                                                     IceSpear[Deals 494 to 741 Cold Damage] |
+| Damage    | 120%,                                                                                                                                     IceSpear[Deals 494 to 741 Cold Damage \| 7% chance to crit], |
 | Defense   | 180% \| 0 Fire Res, 75 Cold Res, 0 Lightning Res, 0 Chaos Res |
 | Range     | 0~3 screens away                         |
 | Videos    |                                          |
@@ -423,6 +430,16 @@ Suggested Links:
 > ------
 >
 > Normally swapping out GMP for Cold penetration is enough for most map bosses. You just want to get rid of the less multiplier
+
+*Extra Notes*
+
+These guys scale like player's ice spear does. With gem level being monster level instead.
+
+<img src="http://i.imgur.com/2arS8BH.png" />
+
+
+
+<img src="http://i.imgur.com/9SFuuLL.png" />
 
 ---
 
@@ -470,7 +487,7 @@ A viable cold based spectre. Faster proj is needed b/c their projectiles seem to
 | Defense   | 144% \| 0 Fire Res, 75% Cold Res, 0 Lightning Res, 0 Chaos Res |
 | Range     | 0~1 screens away, 0-2 screens away if faster projectile support |
 | Videos    | https://www.youtube.com/watch?v=uuxqOE2SQN0 |
-| Locations | Courtyard, Scriptorium, Beach, Strand,   |
+| Locations | Courtyard, Scriptorium, Added cold monster sextant, Mud Geyser |
 
 Suggested Links:
 
@@ -573,9 +590,11 @@ http://poedb.tw/us/mon.php?n=Cannibal+Fire-eater
 | Defense   | 144% \| 0 Fire Res, 0 Cold Res, 0 Lightning Res, 0 Chaos Res |
 | Range     | 0~1/2 screens away                       |
 | Videos    |                                          |
-| Locations | The Coast,                               |
+| Locations | Shaped/Shore maps,                       |
 
+*extra notes*
 
+<img src="http://i.imgur.com/NrZNqOe.png" >
 
 ---
 

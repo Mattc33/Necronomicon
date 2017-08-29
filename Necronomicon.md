@@ -90,7 +90,7 @@ Go to options -> Ui -> Allies health bar
 • Using a Rejuvenation Totem
 • Any instance of heal on block
 • Minion life regen
-• Minion Life leach and leach support gem
+• Minion Life leech and leech support gem
 • Severed in Sleep gain 20% maximum life on killing a poisoned enemy
 • Vitality Aura
 • If you are running the Immortalis Belt you can use any flasks that heals for zombies and spectres
@@ -105,7 +105,22 @@ For the most part the tooltip is **WRONG**. The Life values might be right but t
 
 ### Does Stats like Dex, Int, and Str affect minions?
 
-Minions do not have Base attributes. They can gain stats from necro aegis and uniques such as the baron unique helmet. Minions do gain the same stat scaling player does
+Minions have a starting Base attributes of 0. They can gain stats from necro aegis and uniques such as the baron unique helmet. Minions do gain the same stat scaling player does
+
+**Int:**
+
+-   Every 10 intelligence grants an additional 5 [mana](https://pathofexile.gamepedia.com/Mana).
+-   Every 10 intelligence grants 2% increased maximum [energy shield](https://pathofexile.gamepedia.com/Energy_shield).
+
+**Str:**
+
+-   Every 10 strength grants an additional 5 maximum [life](https://pathofexile.gamepedia.com/Life).
+-   Every 10 strength grants 2% increased melee [physical damage](https://pathofexile.gamepedia.com/Physical_damage).
+
+**Dex:**
+
+-   Every 10 dexterity grants an additional 20 [accuracy](https://pathofexile.gamepedia.com/Accuracy) rating.
+-   Every 10 dexterity grants 2% increased [evasion](https://pathofexile.gamepedia.com/Evasion) rating.
 
 ---
 
@@ -115,6 +130,24 @@ By Default most minions(AW, srs, skele, zombros, anything summoned like spectral
 
 This means with the necromancer ascendancy that give +20% all res and the 16% you get from the tree will cap any kind of minion to 75%(they all get 76%). You can run purity to cap in situations where they get cursed it also makes it a lot easier to overcap with the tri purity auras for all minions.
 What this means is minions in general are much tankier now in all situations.
+
+**Sources of Minion Elemental Resistances:**
+
+-   Herd of the Flock +16% to all elemental resistances
+-   Commander of Darkness +20% to all Elemental Resistances (aura radius)
+-   Purity of Elements (aura radius)
+-   Purity of Fire (aura radius)
+-   Purity of Lightning (aura radius)
+-   Purity of Ice (aura radius)
+-   Sources of + minion elemental resistances on jewels (suffix)
+-   Liege of the Primordial (Elementalist node that makes golems immune to elemental damage)
+-   Necro Aegis and elemental resistance on shields
+
+**Sources of Minion Chaos Resistances:**
+
+-   Grave Intentions
+-   Minion Life and Chaos Resistances
+-   Necro Aegis and chaos resistance on shield
 
 **Relevant patch notes:**
 • Raise Spectre now grants +30% elemental resistances to its minions.
