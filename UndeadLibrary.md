@@ -7,7 +7,10 @@
     - [Sources of +1 Spectre?](#sources-of-1-spectre)
     - [Implicit Values of Mobs?](#implicit-values-of-mobs)
     - [Monster Skills?](#monster-skills)
+    - [Raise Spectre in Relation to the socket space on gear](#raise-spectre-in-relation-to-the-socket-space-on-gear)
+    - [The Importance of Monster level for Spectre damage and survivability](#the-importance-of-monster-level-for-spectre-damage-and-survivability)
     - [On Desecrate Table Trick(How to get higher level spectre more easily)](#on-desecrate-table-trickhow-to-get-higher-level-spectre-more-easily)
+    - [A Trick to have multiple maps open for easier desecration](#a-trick-to-have-multiple-maps-open-for-easier-desecration)
   - [DPS Spectres (Clearing)](#dps-spectres-clearing)
     - [Fire](#fire)
       - [Flame Sentinels](#flame-sentinels)
@@ -135,6 +138,24 @@ For example any monster that has the implicit "Proximity Shield" will grant a bu
 
 ---
 
+### Raise Spectre in Relation to the socket space on gear
+
+You can actually manipulate gem coloring in town while still having your spectre "Saved" and summoned. 
+
+Lets say your using solar guards in a clearing setup(BBBBGG) and want to recolor your chest piece so they can have the ideal gem setup(BBBBBG). As long as the gem slot your summoned the spectre with is the same (so lets say you recolor and both the top left gem slot is blue). The spectre will remained summoned and will be saved despite changing your links/colors.
+
+>    **REMEMBER:*
+>
+>    This trick can only be performed while in town if you do this in your hideout the spectre will disappear.
+
+---
+
+### The Importance of Monster level for Spectre damage and survivability
+
+This question is asked a lot so I would say **YES. Monster level is very important.** Think of each monster level like a level on your spell gem. Going from a level 60 monsters with a flat damage of 50-100. If you bring that up to a level 70 monster it can be twice as much with a flat damage range of 200-300. They will also gain more life as well.
+
+---
+
 ### On Desecrate Table Trick(How to get higher level spectre more easily)
 
 Since the Atlas of Worlds update(2.4.0). At least this was when I first started to notice this trick. Spectre you have previously summoned are added to the desecrate table. 
@@ -146,11 +167,22 @@ What I mean by this is if you go into Act 8 Solaris temple and summon a solar gu
 - **Frost Sentinels** : The Act 8 version is bugged. If you find these guys in maps they will be a lot easier to desecrate in higher level maps.
 - **Kitava's Herald** : Please note the **act 10 version is bugged** use the **act 5** version to desecrate higher level versions of this spectre
 
-> 
->
 > [Video Guide on how to perform this trick](https://www.youtube.com/watch?v=JUQarQBWbrY)
 >
-> 
+
+---
+
+### A Trick to have multiple maps open for easier desecration
+
+For those that don't know you can actually have 3 separate map instances open at the same time as of version 3.0. 
+
+-   The Templar Laboratory
+-   The Chambers of Sin
+-   Your HideOut
+
+You will be able to hold maps that you know has the spectre you are looking for. I believe a campaign instance remains open for 8-12 mins. It will be annoying to double back but saving a corpse is possible.
+
+You can also make an alternate character and open another instance of poe to "save" your high level corpses.
 
 ---
 
@@ -176,34 +208,54 @@ The first mentioned Spectre for a reason, these are the tried and true spectre f
 
 http://poedb.tw/us/mon.php?n=Flame+Sentinel
 
+| Category   | Description                              |
+| ---------- | ---------------------------------------- |
+| Uses       | 3 fireballs with alternating supports. Regular => with LMP => with Fork |
+| Tags       | [Minion, Projectile, Spell, AOE, Fire]   |
+| Implicit   | Cast Augmented Fireballs                 |
+| Damage     | 120%                                     |
+| Range      | 0~2 screens away                         |
+| Life       | 180%                                     |
+| Resistance | 0 Fire Res \| 75 Cold Res \| 0 Lightning Res \| 0 Chaos Res |
 
+-   Locations:
 
-| Category  | Description                              |
-| --------- | ---------------------------------------- |
-| Uses      | 3 fireballs with alternating supports. Regular => with LMP => with Fork |
-| Tags      | [Minion, Projectile, Spell, AOE, Fire]   |
-| Implicit  | Cast Augmented Fireballs                 |
-| Damage    | 120%                                     |
-| Defense   | 180% \| 0 Fire Res, 75% Cold Res, 0 Lightning Res, 0 Chaos Res |
-| Range     | 0~2 screens away                         |
-| Videos    | Maze Boss, https://www.youtube.com/watch?v=uLuxvXu7MpQ&t=2m45s |
-| Locations | Eternal Laboratory, Ramparts, Racecourse, Quay, Arsenal, Museum, Factory. Plaza, Colonnade, Courtyard |
+    >Campaign: Templar Laboratory(Lv68)
+    >
+    >T10: Quay, Colonnade, Courtyard
+    >
+    >T15: Shaped Quay, Shaped Colonnade, Shaped Courtyard
+
+-   Videos:
+
+    >   **Matt:** 
+    >
+    >   -   Maze Boss, https://www.youtube.com/watch?v=uLuxvXu7MpQ&t=2m45s
+    >
+    >   **Sam Cordaro:**
+    >
+    >   -   Shaper, https://www.youtube.com/watch?v=tbRDeot_sms
 
 -   Suggested Links:
 
-    >   Minion Damage => Spell Echo => GMP
+    >   **Clear:** Minion Damage + Spell Echo + GMP + Faster Projectile + Elemental Focus
     >
-    >   Minion Damage => Spell Echo => GMP => Elemental Focus
+    >   **Boss:** Minion Damage + Spell Echo + Elemental Focus + Controlled Destruction + Slower Projectiles
     >
-    >   **Damage:** Minion Damage => Spell Echo => GMP => Elemental Focus => Fire Penetration
-    >
-    >   **Clear:** Minion Damage => Spell Echo => GMP => Elemental Focus => Faster Projectile
-    >
-    >   ---
+    >   ------
     >
     >   *Swap out GMP for Slower Projectiles on Single Target*
-    >
-    >   *Fire Penetration is normally better for any target above 15% fire resistance, which is pretty much any monster that matters*
+
+-   Ect
+
+    I believe their fire ball scaling matches closely to that of a player Fireball skill. 
+
+    -   Level = Monster level
+    -   Flat Damage = Fireball flat damage roughly
+
+    <img src="https://i.imgur.com/SWfdbVS.png" />
+
+    ​
 
 
 ---
@@ -227,7 +279,7 @@ http://poedb.tw/us/mon.php?n=Undying+Incinerator
 | Defense   | 100% \| 75% Fire Res , 0 Cold Res, 0 Lightning Res, 0 Chaos Res |
 | Range     | 0~2 screens away                         |
 | Videos    |                                          |
-| Locations |                                          |
+| Locations | Crematorium,                             |
 
 **Suggested Links:**
 

@@ -276,7 +276,7 @@ Mistress of Sacrifice allows you to use minion specific active buffs on your own
 
 Minions will gain the effects of the support gem while it is summoned. So you can swap out support gems in and out on the fly. 
 
-A tip for people low on mana is to take out support gems and summon minions with a lower mana cost then requip the gem. 
+A tip for people low on mana is to take out support gems and summon minions with a lower mana cost then re-equip the gem. 
 
 Same goes for Spell Echo. If you don't want the first part of the skill to echo(The summoning of the spectre itself for example) you can remove it then reequip it later. After re-equipping the spell echo it will be "added" to the currently raised spectres much like how **any other active skill works**.
 
