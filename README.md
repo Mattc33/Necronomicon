@@ -18,6 +18,7 @@
 
 **Special Thanks and Collaborators:**
 
+> - /u/BluePikMin - providing a lot of knowledge on minions in general
 > - [@leary93](https://www.pathofexile.com/account/view-profile/leary93) - providing video content and general minion knowledge => His [YouTube](https://www.youtube.com/channel/UCfzgUpVcv6wzrs5TwKZaGJQ) 
 > - [@Angryafrican](https://www.pathofexile.com/account/view-profile/Angryafrican) - for being a great minion twitch streamer => his [Twitch](https://www.twitch.tv/angryaa)
 > - [@Ghazzy](https://www.pathofexile.com/account/view-profile/Ghazzy) - for being a great minion twitch streamer and for his help introducing summoners to new players => his [Twitch](https://www.twitch.tv/ghazzy)
