@@ -211,7 +211,7 @@ http://poedb.tw/us/mon.php?n=Flame+Sentinel
 | Category   | Description                              |
 | ---------- | ---------------------------------------- |
 | Uses       | 3 fireballs with alternating supports. Regular => with LMP => with Fork |
-| Tags       | [Minion, Projectile, Spell, AOE, Fire]   |
+| Tags       | Minion, Projectile, Spell, AOE, Fire     |
 | Implicit   | Cast Augmented Fireballs                 |
 | Damage     | 120%                                     |
 | Range      | 0~2 screens away                         |
@@ -225,6 +225,12 @@ http://poedb.tw/us/mon.php?n=Flame+Sentinel
     >T10: Quay, Colonnade, Courtyard
     >
     >T15: Shaped Quay, Shaped Colonnade, Shaped Courtyard
+    >
+    >T16: Hydra, Minotaur
+    >
+    >T17: Shaper Realm
+    >
+    >- Any Map that rolls the "Solar Mod"
 
 -   Videos:
 
@@ -270,44 +276,43 @@ Their fireballs do not have as big of a damage range as flame sentinels but thei
 
 http://poedb.tw/us/mon.php?n=Undying+Incinerator
 
-| Category  | Description                              |
-| --------- | ---------------------------------------- |
-| Uses      | Fireball, Firetrap and Suicide Explosion(at low life) |
-| Tags      | [Minion, Projectile, Spell, AOE, Fire, Trap] |
-| Implicit  | Throws Fire Bombs, Explodes when on Low Life, immune_to_lava_damage |
-| Damage    | 100%                                     |
-| Defense   | 100% \| 75% Fire Res , 0 Cold Res, 0 Lightning Res, 0 Chaos Res |
-| Range     | 0~2 screens away                         |
-| Videos    |                                          |
-| Locations | Crematorium,                             |
+| Category   | Description                              |
+| ---------- | ---------------------------------------- |
+| Uses       | Fireball, Firetrap and Suicide Explosion(at low life) |
+| Tags       | Minion, Projectile, Spell, AOE, Fire, Trap |
+| Implicit   | Throws Fire Bombs, Explodes when on Low Life, immune_to_lava_damage |
+| Damage     | 100%                                     |
+| Range      | 0~2 screens away                         |
+| Life       | 100%                                     |
+| Resistance | 75 Fire \| 0 Cold \| 0 Lightning \| 0 Chaos |
 
-**Suggested Links:**
+- Locations:
 
->   Minion Damage => Spell Echo => GMP
->
->   Minion Damage => Spell Echo => GMP => Elemental Focus
->
->   **Damage:** Minion Damage => Spell Echo => GMP => Elemental Focus => Fire Penetration
->
->   **Clear:** Minion Damage => Spell Echo => GMP => Elemental Focus => Faster Projectile
->
->   ---
->
->   **Traps:**
->
->   Minion Damage => Spell Echo => Cluster Trap 
->
->   Minion Damage => Spell Echo => Cluster Trap ==> Trap and Mine
->
->   Minion Damage => Spell Echo => Cluster Trap ==> Trap and Mine ==> Fire Penetration
->
->   ---
->
->   *Swap out GMP for Slower Projectiles on Single Target*
->
->   *Swap out Cluster Trap for Trap Cool down on Single Target*
->
->   *Fire Penetration is normally better for any target above 15% fire resistance, which is pretty much any monster that matters*
+  > Campaign: Crematorium(Lv25)
+  >
+  > T10: Quay, Colonnade, 
+  >
+  > T11: Crematorium Map
+  >
+  > T15: Shaped Quay, Shaped Colonnade
+  >
+  > T16: Hydra, Minotaur
+
+- Videos:
+
+  > **To be Added**
+  >
+
+- Suggested Links:
+
+  > **Clear:** Minion Damage + Spell Echo + GMP + Faster Projectile + Elemental Focus
+  >
+  > **Boss:** Minion Damage + Spell Echo + Elemental Focus + Controlled Destruction + Slower Projectiles
+  >
+  > ------
+  >
+  > *Swap out GMP for Slower Projectiles on Single Target**
+
 
 ---
 
@@ -315,7 +320,9 @@ http://poedb.tw/us/mon.php?n=Undying+Incinerator
 
 <img src="https://i.gyazo.com/117a005196ca5bbf796b0098fc748c14.png" height="300" />
 
-These guys has some of the highest damage potential possible. They have a huge damage range and their implicit of reduced cast speed is mostly countered by spell echo and stacking castspeed on them. They shoot their fireballs at long range and when they enter medium range they shoot their magma orbs. They will also occasionally cast molten shell which gives them massive armor and a huge burst of damage if they are on top of bosses. Due to magma orb mechanics the area between bounces can overlap dealing double the damage to targets with a larger hitbox(kuduku sized or bigger).
+These guys has some of the highest damage potential possible. They have a huge spike damage via magma orbs and their implicit of reduced cast speed is mostly countered by spell echo and stacking cast speed on them. 
+
+They shoot their fireballs at long range and when they enter medium range they shoot their magma orbs. They will also occasionally cast molten shell which gives them massive armor and a huge burst of damage if they are on top of bosses. Due to magma orb mechanics the area between bounces can overlap dealing double the damage to targets with a larger hitbox(kuduku sized or bigger).
 
 - iAOE will increase the damage overlap area between bounces
 - Faster projectiles will increase magma orb range
@@ -323,50 +330,65 @@ These guys has some of the highest damage potential possible. They have a huge d
 
 http://poedb.tw/us/mon.php?n=Goatman+Fire-raiser
 
-| Category  | Description                              |
-| --------- | ---------------------------------------- |
-| Uses      | fireball, magma orb, molten shell        |
-| Tags      | [Minion, Projectile, Spell, AOE, Fire]   |
-| Implicit  | 50% reduced Cast Speed                   |
-| Damage    | 100%,                                                                                                                                 Fireball[Deals 861 to 1335 Fire Damage],                                                                               Molten Shell[Deals 2698 to 4048 Fire Damage],                                                                   Magma Orb[Deals 1149 to 1531 Fire Damage] |
-| Defense   | 140%,                                                                                                                                           Molten Shell[+19399 to Armour, Shields break after 4334 total Damage is prevented] |
-| Range     | 1~2 screens away                         |
-| Videos    | Abyss Kaom, https://www.youtube.com/watch?v=YgwONmsBaJI |
-| Locations | Canyon, shaped canyon, Gorge, Plateau, any map that rolls with goatman or animals |
+| Category   | Description                              |
+| ---------- | ---------------------------------------- |
+| Uses       | Fireball, Magma Orb, Molten Shell        |
+| Tags       | Minion, Projectile, Spell, AOE, Fire     |
+| Implicit   | 50% reduced Cast Speed                   |
+| Damage     | 100%                                     |
+| Range      | 0~1.5 screens away                       |
+| Defense    | 140%                                                                                                                                             Molten Shell[+19399 to Armour, Shields break after 4334 total Damage is prevented] |
+| Resistance | 75 Fire \| 0 Cold \| 0 Lightning \| 0 Chaos |
 
-Suggested Links:
+- Locations:
 
->   Minion Damage => Spell Echo => GMP
->
->   Minion Damage => Spell Echo => GMP => Elemental Focus
->
->   **Damage:** Minion Damage => Spell Echo => GMP => Elemental Focus => Fire Penetration
->
->   **Clear:** Minion Damage => Spell Echo => GMP => Elemental Focus => Faster Projectile
->
->   ------
->
->   *Swap out GMP for Slower Projectiles on Single Target*
->
->   *Fire Penetration is normally better for any target above 15% fire resistance, which is pretty much any monster that matters*
+  > Campaign: Crematorium(Lv25)
+  >
+  > T6: Canyon
+  >
+  > T11: Shaped Canyon
+  >
+  > T13: Gorge
+  >
+  > T16: Hydra, Minotaur
+  >
+  > T17: Shaper Realm
+  >
+  > - Any Map that rolls the "with Goatmen or with Animals Mod"
+
+- Videos:
+
+  > **Matt:**
+  >
+  > Abyss Kaom, https://www.youtube.com/watch?v=YgwONmsBaJI
+
+- Suggested Links:
+
+  > **Clear:** Minion Damage + Spell Echo + GMP + Faster Projectile + Elemental Focus/iAOE
+  >
+  > **Boss:** Minion Damage + Spell Echo + Elemental Focus + Controlled Destruction + Slower Projectiles
+  >
+  > ------
+  >
+  > *Swap out GMP for Slower Projectiles on Single Target**
 
 ---
 
 #### Wicker Man
 
-One of the best Melee Spectre to come from the 3.0 Update. They cast a monster version of righteous fire that burns with a flat damage that scales with their level. Unlike burned miscreation's they have an amazing filler skill in the form of molten strike. There are two ways to build this spectre burn or single target melee.
+One of the best "Melee" Spectre to come from the 3.0 Update. They cast a monster version of righteous fire  called Unrighteous Fire that burns with a flat damage that scales with their level. Unlike burned Miscreation's they have an amazing filler skill in the form of molten strike. The best way to build these guys is to scale their burn.
 
 - Their Righteous Fire **WILL NOT** scale with monster life rather it is a flat amount that increases with levels
 - Lvl 66 has a flat damage of 753 
 - Lvl 76 has a flat damage of 1677
-- https://www.reddit.com/r/pathofexile/comments/6tdt6q/wicker_man_spectres_gem_setup/
+- Lbl 82 has a flat damage of 2450~ ish
 
 http://poedb.tw/us/mon.php?n=Wicker+Man
 
 | Category  | Description                              |
 | --------- | ---------------------------------------- |
 | Uses      | Default Attack, Righteous Fire, Molten Strike |
-| Tags      | [Minion, Projectile, Spell, AOE, Fire, Melee] |
+| Tags      | Minion, Projectile, Spell, AOE, Fire, Melee |
 | Implicit  | N/A                                      |
 | Damage    | 150%,                                                                                                                                          Righteous Fire,                                                                                                                                      Molten Strike                                                                                                                                      [Projectiles deal 40% less Damage, 10% increased physical Damage, Deals 120% Damage, 4 Additional Projectiles, 60% of Physical Damage Converted to Fire Damage] |
 | Defense   | 225%                                     |
