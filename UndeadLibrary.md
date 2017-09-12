@@ -160,12 +160,15 @@ This question is asked a lot so I would say **YES. Monster level is very importa
 
 Since the Atlas of Worlds update(2.4.0). At least this was when I first started to notice this trick. Spectre you have previously summoned are added to the desecrate table. 
 
-What I mean by this is if you go into Act 8 Solaris temple and summon a solar guard. Bring that into a map that **can** naturally spawn them the action of doing the initial summoning seems to add that potential corpse to the corpses you desecrate. This seems to apply to most minions some exceptions seem to be...
+What I mean by this is if you go into Act 8 Solaris temple and summon a solar guard. Bring that into a map that **can** naturally spawn them the action of doing the initial summoning seems to add that potential corpse to the corpses you desecrate. 
+
+This seems to apply to most minions some exceptions seem to be...
 
 - **Knitted Horrors** : These cannot be desecrated at all
 - Anything that can't leave a corpse. Think those balls of ice or water elemental monsters. You **cannot** desecrate or use these are spectre
 - **Frost Sentinels** : The Act 8 version is bugged. If you find these guys in maps they will be a lot easier to desecrate in higher level maps.
 - **Kitava's Herald** : Please note the **act 10 version is bugged** use the **act 5** version to desecrate higher level versions of this spectre
+- **Solar Guards** : Please note the act 8 Harbour bridge version is bugged for desecration, use the ones from solaris temple.
 
 > [Video Guide on how to perform this trick](https://www.youtube.com/watch?v=JUQarQBWbrY)
 >
@@ -385,39 +388,61 @@ One of the best "Melee" Spectre to come from the 3.0 Update. They cast a monster
 
 http://poedb.tw/us/mon.php?n=Wicker+Man
 
-| Category  | Description                              |
-| --------- | ---------------------------------------- |
-| Uses      | Default Attack, Righteous Fire, Molten Strike |
-| Tags      | Minion, Projectile, Spell, AOE, Fire, Melee |
-| Implicit  | N/A                                      |
-| Damage    | 150%,                                                                                                                                          Righteous Fire,                                                                                                                                      Molten Strike                                                                                                                                      [Projectiles deal 40% less Damage, 10% increased physical Damage, Deals 120% Damage, 4 Additional Projectiles, 60% of Physical Damage Converted to Fire Damage] |
-| Defense   | 225%                                     |
-| Range     | 0-.6 screens away                        |
-| Videos    |                                          |
-| Locations | Promenade, Ravaged Square, The Canals    |
+| Category   | Description                              |
+| ---------- | ---------------------------------------- |
+| Uses       | Default Attack, Righteous Fire, Molten Strike |
+| Tags       | Minion, AOE, Fire, Melee                 |
+| Implicit   | N/A                                      |
+| Damage     | 150%                                     |
+| Range      | 0-1 screens away                         |
+| Defense    | 225%                                     |
+| Resistance | 20 Fire \| 20 Cold \| 20 Lightning \| 0 Chaos |
 
-Suggested Links:
 
-> **Burn:**
->
-> Minion Damage => Elemental Focus => iAOE
->
-> Minion Damage  => Elemental Focus => iAOE => Controlled Destruction
->
-> Minion Damage  => Elemental Focus => iAOE => Controlled Destruction => Increased Burning Damage 
->
-> **Molten Strike:**
->
-> Minion Damage => MultiStrike => iAOE
->
-> Minion Damage => MultiStrike => iAOE => Weapon Elemental Damage
->
-> Minion Damage => MultiStrike => iAOE => Weapon Elemental Damage => Elemental Focus
->
-> ------
->
-> *Swap out IAOE for Conc on bosses*
->
+
+- Locations:
+
+  > Campaign: Crematorium(Lv25)
+  >
+  > T3: Sewer, Vaal Pyramid
+  >
+  > T4: Academy, Villa, Graveyard, Waste Pool, Dungeon
+  >
+  > T5: Burial Chambers, The Pale Court
+  >
+  > T6: Vaal City
+  >
+  > T7: Cells, Catacombs
+  >
+  > T8: Cemetery
+  >
+  > T9: Cyrpt, Temple, Overgrown Shrine, Museum
+  >
+  > T10: Arsenal, 
+  >
+  > T11: Torture Chamber, Chateau
+  >
+  > T12: Residence, Necropolis, Crematorium, Ivory Temple
+  >
+  > T13: Scriptorium, Plaza
+  >
+  > T14: Maze, Palace, Shrine
+  >
+  > T15: Overgrown Ruin
+  >
+  > T16: Hydra, Phoenix, Vaal temple
+  >
+  > T17: Shaper Realm - mini-boss rooms with the correct tileset. Rarely in portal room
+
+- Videos:
+
+  > ​
+
+- Suggested Links:
+
+  > **Clear:** Minion Damage + GMP + Echo + Faster 
+  >
+  > **Boss:** Minion Damage + Elemental Focus + Burning Damage + Swift Affliction + Conc
 
 ---
 
@@ -429,33 +454,80 @@ Like Undying Incinerators their version of fireball seems to scale extremely wel
 
 http://poedb.tw/us/mon.php?n=Solar+Guard
 
-| Category  | Description                              |
-| --------- | ---------------------------------------- |
-| Uses      | SpecialBeamCannon, Fireball              |
-| Tags      | [Minion, Projectile, Spell, AOE, Fire]   |
-| Implicit  | Extra fire damage (60% extra phy to fire) |
-| Damage    | 112%,                                                                                                                                                       Special Beam Cannon[ Deals 1505 to 2258 Fire Damage \| 0% chance to crit],                                                            Fireball [ Deals 776 to 1202 Fire Damage \| 6% chance to crit] |
-| Defense   | 198% \| 75 Fire Res, 0 Cold Res, 0 Lightning Res, 0 Chaos Res |
-| Range     | 0~2 screens away                         |
-| Videos    | [Shaped Race Course](https://www.youtube.com/watch?v=HpTJTOUfC4E) |
-| Locations | Wharf,  Channel,  Plaza,  Shrine,  Collonade,  Shipyard,  Ghetto,  Ramparts,  Promenade, Highgarden,  Arcade,  Graveyard,  Bazaar,  Castle Ruins,  Chateau,  Cemetery,  Arsenal,  Racecourse,  Courtyard |
+| Category    | Description                              |
+| ----------- | ---------------------------------------- |
+| Uses        | SpecialBeamCannon, Fireball              |
+| Tags        | Minion, Projectile, Spell, AOE, Fire [Laser is not tagged with projectile] |
+| Implicit    | Extra fire damage (60% extra phy to fire) |
+| Damage      | 112%,                                    |
+| Range       | 0~2 screens away                         |
+| Defense     | 198%                                     |
+| Resistances | 75 Fire \|0 Cold \| 0 Lightning \| 0 Chaos Res |
+
+- Locations:
+
+  > Campaign: Solaris Temple 1(lv60)
+  >
+  > T3: Channel
+  >
+  > T4: Academy
+  >
+  > T5: 
+  >
+  > T6: Race Course, Wharf
+  >
+  > T7: 
+  >
+  > T8: 
+  >
+  > T9: Promenade
+  >
+  > T10: Collonade, Courtyard, Port
+  >
+  > T11: Shaped Race Course
+  >
+  > T12: 
+  >
+  > T13: Plaza
+  >
+  > T14: Shaped Promenade
+  >
+  > T15: Overgrown Ruin, Shrine, Shaped Collonade, Shaped Port
+  >
+  > T16: Minotaur, Hydra
+  >
+  > T17: Shaper Realm
+
+- Videos:
+
+  > **Matt:**
+  >
+  > - [Race Course Clear](https://www.youtube.com/watch?v=Ssg0SxGHNdg)
 
 - Suggested Links:
 
-  > Minion Damage => Spell Echo => GMP
+  > **Clear(From T1-13):**
+  > Minion Damage + Spell Echo + GMP + Faster Proj + increased Area
   >
-  > Minion Damage => Spell Echo => GMP => Elemental Focus
+  > **Clear(From T14-15):**
   >
-  > **Damage:** Minion Damage => Spell Echo => GMP => Elemental Focus => Fire Penetration
+  > Minion Damage + Spell Echo + GMP + Faster Proj + elemental focus
   >
-  > **Clear:** Minion Damage => Spell Echo => GMP => Elemental Focus => Faster Projectile
+  > **Boss Swap(Not that much HP):**
   >
-  > ------
+  > Minion Damage + Spell Echo + GMP + faster Proj + elemental focus
   >
-  > *Swap out GMP for Slower Projectiles on Single Target*
+  > **Boss Swap(Kinda more tanky):**
+  > Minion Damage + Spell Echo + Slower proj + Pierce + elemental focus
   >
-  > *Fire Penetration is normally better for any target above 15% fire resistance, which is pretty much any monster that matters*
-
+  > **T16+ Trash:**
+  > Minion Damage + Spell Echo + Cont. Dest + Ele Focus + GMP
+  >
+  > **T16+ Fast moving Guardian:**
+  > Minion Damage + Spell Echo + Cont. Dest + Ele Focus + Pierce
+  >
+  > **T16+ Slower moving Guardian:**
+  > Minion Damage + Spell Echo + Cont. Dest + Ele Focus + Slower projectile
 
 *extra notes*
 
