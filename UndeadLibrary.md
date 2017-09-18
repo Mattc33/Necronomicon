@@ -25,6 +25,7 @@
     - [**Lightning**](#lightning)
       - [Stygian Revenant](#stygian-revenant)
     - [**Physical**](#physical)
+      - [Kitava's Herald](#kitavas-herald)
       - [Knitted Horror](#knitted-horror)
     - [**Chaos**](#chaos)
   - [DPS Spectres (Single Target)](#dps-spectres-single-target)
@@ -41,7 +42,6 @@
     - [**Ice**](#ice)
     - [**Lightning**](#lightning-2)
     - [**Physical**](#physical-2)
-      - [Kitava's Herald](#kitavas-herald)
       - [Sandworn Slaves](#sandworn-slaves)
       - [Towering Figment](#towering-figment)
       - [Undying Evangelist](#undying-evangelist)
@@ -448,7 +448,7 @@ http://poedb.tw/us/mon.php?n=Wicker+Man
 
 #### Solar Guard
 
-[insert image here]
+<img src="https://i.imgur.com/sBjbjIa.png" width="500"/>
 
 Like Undying Incinerators their version of fireball seems to scale extremely well with cast speed. They are even more tanky then the sentinels. They also come with a special beam cannon that fires off every 8s or so. In my opinion due to their ai, dmg, tank, and ease of desecration they are the top tier spectre of the 3.0 update.
 
@@ -549,33 +549,46 @@ One of the best choices for clearing maps. They seem to have an even further agr
 
 - Less AOE then Flame sentinels so Pierce as the last link will help tremendously with clear speed 
 - Similar to spell casters like Flame Sentinels and Undying Incinerators they scale extremely well with cast speed
+- Their second stage of icespear adds +50% increased damage not increased crit
+- They have a default crit chance of 7%
 
 http://poedb.tw/us/mon.php?n=Frost+Sentinel
 
-| Category  | Description                              |
-| --------- | ---------------------------------------- |
-| Uses      | Ice Spear                                |
-| Tags      | [Minion, Spell, Projectile, Ice]         |
-| Implicit  | Adds additional projectiles, ice spear second form damage + 50% |
-| Damage    | 120%,                                                                                                                                     IceSpear[Deals 494 to 741 Cold Damage \| 7% chance to crit], |
-| Defense   | 180% \| 0 Fire Res, 75 Cold Res, 0 Lightning Res, 0 Chaos Res |
-| Range     | 0~3 screens away                         |
-| Videos    |                                          |
-| Locations | Lunaris Concourse, Lunaris Temple 1, Lunaris Temple 2, Lunar maps |
+| Category    | Description                              |
+| ----------- | ---------------------------------------- |
+| Uses        | Ice Spear                                |
+| Tags        | Minion, Spell, Projectile, Ice           |
+| Implicit    | Adds additional projectiles, ice spear second form damage + 50% |
+| Damage      | 120%,                                    |
+| Range       | 0~3 screens away                         |
+| Defense     | 180%                                     |
+| Resistances | 0 Fire \| 75 Cold \| 0 Lightning \| 0 Chaos |
 
-Suggested Links:
+- Locations:
 
-> Minion Damage => Spell Echo => GMP
->
-> Minion Damage => Spell Echo => GMP => Faster Projectiles
->
-> **Damage:** Minion Damage => Spell Echo => Cold Penetration => Hypothermia => Slower Proj/Added Cold
->
-> **Clear:** Minion Damage => Spell Echo => GMP => Faster Projectiles => Pierce
->
-> ------
->
-> Normally swapping out GMP for Cold penetration is enough for most map bosses. You just want to get rid of the less multiplier
+  > Campaign: Lunaris Temple 1(lv60)
+  >
+  > * *Lunar Mod rolled on Maps
+
+- Videos:
+
+  > **Matt:**
+  >
+  > - [Race Course Clear](https://www.youtube.com/watch?v=-6P5JWVHMzo)
+  > - [Spectre Experiment Ep. 1 : Frost Sentinels](https://www.youtube.com/watch?v=2ZDDk6XhvKc)
+
+- Suggested Links:
+
+  > **Clear:**
+  > Minion Damage + Spell Echo + GMP + Faster Proj + Pierce
+  >
+  > **Boss:**
+  >
+  > Minion Damage + Spell Echo + Hypothermia + Slower Projectile + Pierce
+  >
+  > **T16+:**
+  >
+  > Minion Damage + Spell Echo + Hypothermia + Elemental Focus + Controlled Destruction
 
 *Extra Notes*
 
@@ -681,7 +694,56 @@ They have an interesting interaction with sire of shards. Putting them in there 
 
 ---
 
-#### Knitted Horror
+#### Kitava's Herald
+
+<img src="https://i.imgur.com/brTgAyP.png" width="400"/>
+
+One of the best melee spectre in the game. They are 3 abilities that they spam, Cleave at very short ranges, Leap slam at medium range, and a mortar spell at long ranges. They are incredibly tanky and and clear and boss dps decently well. One of the best performing "tank" spectre.
+
+- Attack speed will increase their action speed and will improve clear speed
+- Leap slam has a `50% of Physical Damage as Extra Fire Damage`
+- Cleave has `25% less Attack Speed` and `Attacks cause Bleeding`
+- Mortar deals pure physical damage is an AOE Spell Projectile
+- Note Act10 versions are bugged for desecration trick, use Act5
+
+http://poedb.tw/us/mon.php?n=Kitava%27s+Herald
+
+| Category    | Description                              |
+| ----------- | ---------------------------------------- |
+| Uses        | Leap Slam, Cleave, Mortar, Default Attack |
+| Tags        | Minion, Spell, Projectile, Melee, Duration, IAOE |
+| Implicit    | May inflict Bleeding                     |
+| Damage      | 140%,                                    |
+| Range       | 0~1 screens away                         |
+| Defense     | 360%                                     |
+| Resistances | 0 Fire \| 75 Cold \| 0 Lightning \| 0 Chaos |
+
+- Locations:
+
+  > Campaign: The Cathedral Rooftop (lv45)
+  >
+  > T6: Race Course
+  >
+  > T11: Shaped Race Course
+
+- Videos:
+
+  > **Matt:**
+  >
+  > - [Spectre Experiment Ep. 2 : Kitava's Heralds](https://www.youtube.com/watch?v=4dBIWrFdvTQ)
+
+- Suggested Links:
+
+  > **Clear:**
+  > Minion Damage + Multistrike + Faster Attack + Melee Physical Damage + iAoe
+  >
+  > **Boss:**
+  >
+  > Minion Damage + Multistrike + Faster Attack + Melee Physical Damage + Conc
+
+---
+
+####  Knitted Horror
 
 <img src="https://i.gyazo.com/a12209a99f4dd8c84f42aafc465db06d.png" height="250" />
 
@@ -810,10 +872,6 @@ http://poedb.tw/us/mon.php?n=Solaris+Champion
 ---
 
 ### **Physical**
-
-#### Kitava's Herald
-
-Extremely tanky and synergies well with unending hunger jewels due to their tendency to leap slam into packs. There are two ways to scale them, Focusing on their projectiles or their leapslam and cleave.
 
 ---
 
