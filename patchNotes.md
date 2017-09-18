@@ -12,6 +12,15 @@
 
 ---
 
+- 9/14/2017 - 3.0.1e Patch Notes
+
+  >- Fixed a bug where Skeleton Mages were not supportable by the Iron Will Support.
+  >- Fixed a bug where Golems did not display their correct life values on the skill popup.
+  >- Fixed an issue where skeletons would incorrectly inherit a cooldown on their abilities when a player was using the From Dust unique jewel.
+  >- Improvements have been made to minion pathfinding.
+
+  ​
+
 - 8/2/2017
 
   > - All minions other than Raging Spirits deal more damage at lower levels. This damage bonus levels out to no change at minion level 70 for minions other than Raised Zombies and Summoned Skeletons. (Minion level is based on the level requirement of their gem).
