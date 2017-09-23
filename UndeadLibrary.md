@@ -440,7 +440,7 @@ http://poedb.tw/us/mon.php?n=Wicker+Man
 
 - Suggested Links:
 
-  > **Clear:** Minion Damage + GMP + Echo + Faster 
+  > **Clear:** Minion Damage + Elemental Focus + Burning Damage + Swift Affliction + iAOE
   >
   > **Boss:** Minion Damage + Elemental Focus + Burning Damage + Swift Affliction + Conc
 
