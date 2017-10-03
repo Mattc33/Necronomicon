@@ -956,6 +956,9 @@ http://poedb.tw/us/mon.php?n=Undying+Evangelist
 
 Carnage Chieftains and Host Chieftains have a skill that grants all nearby allies 1 frenzy or 1 power charge, respectively.
 
+http://poedb.tw/us/mon.php?n=Carnage+Chieftain
+http://poedb.tw/us/mon.php?n=Host+Chieftain
+
 -   Locations:
 
     >T1 Jungle Valley
