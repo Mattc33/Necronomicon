@@ -962,7 +962,7 @@ http://poedb.tw/us/mon.php?n=Host+Chieftain
 -   Locations:
 
     >T1 Jungle Valley
-    >
+    >T6 Spider Forest
     >T7 Ashen Wood
    
 -   Suggested Links:
