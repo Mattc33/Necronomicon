@@ -952,6 +952,25 @@ http://poedb.tw/us/mon.php?n=Undying+Evangelist
 
 ---
 
+### **Mass Frenzy / Mass Power**
+
+Carnage Chieftains and Host Chieftains have a skill that grants all nearby allies 1 frenzy or 1 power charge, respectively.
+
+-   Locations:
+
+    >T1 Jungle Valley
+    >
+    >T7 Ashen Wood
+   
+-   Suggested Links:
+
+    >   **BLOOD MAGIC**: reduces the re-cast time for Mass Frenzy or Mass Power considerably (~28 seconds down to ~11 seconds)
+    >
+    >   Fortify, Minion Life/Resistance: their AI is aggressively melee, which frequently puts them in considerable danger.
+
+---
+
+
 
 
 
