@@ -806,6 +806,50 @@ http://poedb.tw/us/mon.php?n=Cannibal+Fire-eater
 
 ---
 
+#### Tukohama's Vanguard(TV)
+
+The highest single target dps possible of any minion in the game. With an optimized setup 9m-14m dps is achievable. The lay down totems that fires a skill called KaomFireBeam (not scorching ray).
+
+- Cast speed improves totem turn speed
+- Equipping Tukohama's Fortress with Necromantic Aegis will double the totems
+
+http://poedb.tw/us/mon.php?n=Tukohama%27s+Vanguard
+
+| Category    | Description                              |
+| ----------- | ---------------------------------------- |
+| Uses        | Default Attack, KaomFireBeamTotem        |
+| Tags        | Minion, Damage Over Time, Melee, Duration, Fire, Burning |
+| Implicit    | N/A                                      |
+| Damage      | 116%                                     |
+| Range       | 0~1 screens away                         |
+| Defense     | 143%                                     |
+| Resistances | 40 Fire \| 0 Cold \| 0 Lightning \| 0 Chaos |
+
+- Locations:
+
+  > ​
+
+- Videos:
+
+  > **Matt:**
+  >
+  > ​
+
+- Suggested Links:
+
+  > **Clear:**
+  > Minion Damage + Elemental Focus + Increased Burning Damage + Swift Affliction + Spell Echo
+  >
+  > **Boss:**
+  >
+  > Minion Damage + Elemental Focus + Increased Burning Damage + Swift Affliction + Efficacy
+
+
+
+---
+
+
+
 
 
 ### Ice
