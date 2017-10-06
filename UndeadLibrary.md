@@ -31,6 +31,7 @@
   - [DPS Spectres (Single Target)](#dps-spectres-single-target)
     - [**Fire**](#fire)
       - [Cannibal Fire-Eater](#cannibal-fire-eater)
+      - [Tukohama's Vanguard(TV)](#tukohamas-vanguardtv)
     - [Ice](#ice-1)
     - [**Lightning**](#lightning-1)
     - [**Physical**](#physical-1)
