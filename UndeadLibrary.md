@@ -20,6 +20,7 @@
       - [Solar Guard](#solar-guard)
     - [Ice](#ice)
       - [Frost Sentinel](#frost-sentinel)
+      - [Alpine Shaman](#alpine-shaman)
       - [Undying Grapplers](#undying-grapplers)
       - [Merveil Blessed](#merveil-blessed)
     - [**Lightning**](#lightning)
@@ -603,6 +604,61 @@ These guys scale like player's ice spear does. With gem level being monster leve
 
 ---
 
+#### Alpine Shaman
+
+[Insert Image here]
+
+A gimped version of the Frost Sentinel but an alternative. They also shoot icespear's but at a slower animation speed.
+
+- 20% increased Chill Duration
+- Similar to spell casters like Flame Sentinels and Undying Incinerators they scale extremely well with cast speed
+- Their second stage of icespear adds +25% increased damage not increased crit
+- They have a default crit chance of 7%
+
+http://poedb.tw/us/mon.php?n=Frost+Sentinel
+
+| Category    | Description                              |
+| ----------- | ---------------------------------------- |
+| Uses        | Ice Spear                                |
+| Tags        | Minion, Spell, Projectile, Ice           |
+| Implicit    | N/A                                      |
+| Damage      | 100%,                                    |
+| Range       | 0~2 screens away                         |
+| Defense     | 100%                                     |
+| Resistances | 0 Fire \| 75 Cold \| 0 Lightning \| 0 Chaos |
+
+- Locations:
+
+  > Campaign: The Ascent
+  >
+  > - * Capricious rolled on Maps(Area is inhabited by Goatmen)
+  >
+  > ​
+
+- Videos:
+
+  > **Matt:**
+  >
+  > - [Race Course Clear](https://www.youtube.com/watch?v=-6P5JWVHMzo)
+  > - [Spectre Experiment Ep. 1 : Frost Sentinels](https://www.youtube.com/watch?v=2ZDDk6XhvKc)
+
+- Suggested Links:
+
+  > **Clear:**
+  > Minion Damage + Spell Echo + GMP + Faster Proj + Pierce
+  >
+  > **Boss:**
+  >
+  > Minion Damage + Spell Echo + Hypothermia + Slower Projectile + Pierce
+  >
+  > **T16+:**
+  >
+  > Minion Damage + Spell Echo + Hypothermia + Elemental Focus + Controlled Destruction
+
+---
+
+
+
 #### Undying Grapplers
 
 <img src="https://i.gyazo.com/44f7d928836a3a2ace2b95850efba791.png" height="300" />
@@ -844,7 +900,6 @@ http://poedb.tw/us/mon.php?n=Tukohama%27s+Vanguard
   > **Boss:**
   >
   > Minion Damage + Elemental Focus + Increased Burning Damage + Swift Affliction + Efficacy
-
 
 
 ---
