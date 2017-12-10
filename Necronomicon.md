@@ -65,7 +65,7 @@ Raise Spectre is where things get more interesting. Take the flame sentinel for 
 
 ###  How do I create Corpses?
 
-Use the **desecrate gem** and it will summon corpses of the base type of monsters u find in that zone. Keep in mind a level 19+ Desecrate gem will allow you to create monsters of the highest base level for the zone you are in.
+Use the **desecrate gem** and it will summon corpses of the base type of monsters u find in that zone. Keep in mind a level 20 Desecrate gem will allow you to create monsters of the highest base level for the zone you are in. The highest level zone as of [3.0.1] is level 84, the shaper zone.
 
 <img src="https://i.gyazo.com/24a3834e4f04eb7136be7b3a9ce5943d.png" height="500">
 
@@ -90,7 +90,7 @@ Go to options -> Ui -> Allies health bar
 • Using a Rejuvenation Totem
 • Any instance of heal on block
 • Minion life regen
-• Minion Life leech and leech support gem
+• Minion Life leech and life leech support gem
 • Severed in Sleep gain 20% maximum life on killing a poisoned enemy
 • Vitality Aura
 • If you are running the Immortalis Belt you can use any flasks that heals for zombies and spectres
@@ -100,6 +100,12 @@ Go to options -> Ui -> Allies health bar
 ### Minion ToolTip
 
 For the most part the tooltip is **WRONG**. The Life values might be right but the dps values are definitely wrong. We can't rely on the tool tip to see how much damage our minions are doing you will need to calculate that manually unfortunately.
+
+There is a 3rd party tool out there called Path of Building. 
+
+https://github.com/Openarl/PathOfBuilding/releases
+
+There you can select the minion you are using and can observe its dps and defense values.
 
 ---
 
@@ -158,7 +164,7 @@ What this means is minions in general are much tankier now in all situations.
 
 ### Can Minions Crit?
 
-Most minions will have a base crit chance of 5% with a 130% crit multiplier. Certain monsters raised with raise spectre may have more then the base. 
+Most minions will have a base crit chance of 5% with a 130% crit multiplier. Certain monsters raised with raise spectre may have more then the base. Other minion types may range from 5-7% base crit chance.
 
 ---
 
@@ -254,17 +260,23 @@ Mistress of Sacrifice allows you to use minion specific active buffs on your own
 
 <img src="https://i.gyazo.com/f73363ceb99910163bf45486098cbd41.png" height="250" />
 
+A noticeable power booster for Spectre builds. This is a extremely large damage booster as sources of minion damage is not as easy to obtain compared to other damage types. The Life boost effectively makes spectre immune to death in most situations.
+
 ---
 
 ### Flesh Binder
 
 <img src="https://i.gyazo.com/94f1e0bcbaaa78050203b89e9b4a93ff.png" height="225" />
 
+As far as Ascendancy nodes go this is pretty lack luster but typically a summoner build will have very little physical mitigation any bit helps.
+
 ---
 
 ### Spirit Eater
 
 <img src="https://i.gyazo.com/76b8428ef0fc33725329863deb9c0c98.png" height="300" />
+
+This ascendancy node is typically picked up for non-summons focused build but someone who still wants to utilize the Necromancer ascendancy.
 
 ---
 
@@ -303,6 +315,8 @@ What this means is that Mana use can be some spectre type's limiting factor. Usi
 ### Minions and On-Kill effects
 
 If a minion does the kill, the on kill effect will not be attributed to you. However, if the minion Ignites or Poisons and either Ignite or Poison does the kill, the on kill effect will be attributed to you.
+
+There is an exception with Head Hunter. It appears that minion kills count towards the effect.
 
 ---
 

@@ -158,36 +158,32 @@ This question is asked a lot so I would say **YES. Monster level is very importa
 
 ---
 
-### On Desecrate Table Trick(How to get higher level spectre more easily)
+### How to desecrate the highest level spectre
 
-Since the Atlas of Worlds update(2.4.0). At least this was when I first started to notice this trick. Spectre you have previously summoned are added to the desecrate table. 
+1. Find the monster you want to use in the Campaign.
+2. Open your highest level map, (guardian and shaper maps would be the best)
+3. Enter the zone with the spectre you want to use and proceed to desecrate spam
+4. Spell echo linked to desecrate will help
+5. Once you have your spectre you'll only need to repeat this process if they die
 
-What I mean by this is if you go into Act 8 Solaris temple and summon a solar guard. Bring that into a map that **can** naturally spawn them the action of doing the initial summoning seems to add that potential corpse to the corpses you desecrate. 
-
-This seems to apply to most minions some exceptions seem to be...
+**Exceptions...**
 
 - **Knitted Horrors** : These cannot be desecrated at all
-- Anything that can't leave a corpse. Think those balls of ice or water elemental monsters. You **cannot** desecrate or use these are spectre
-- **Frost Sentinels** : The Act 8 version is bugged. If you find these guys in maps they will be a lot easier to desecrate in higher level maps.
-- **Kitava's Herald** : Please note the **act 10 version is bugged** use the **act 5** version to desecrate higher level versions of this spectre
-- **Solar Guards** : Please note the act 8 Harbour bridge version is bugged for desecration, use the ones from solaris temple.
-
-> [Video Guide on how to perform this trick](https://www.youtube.com/watch?v=JUQarQBWbrY)
->
+- Anything that can't leave a corpse. Think those balls of ice or water elemental monsters.
+- Monsters from the Rotting Core
+- Most league specific monsters
 
 ---
 
-### A Trick to have multiple maps open for easier desecration
+### Major Spectre Changes
 
-For those that don't know you can actually have 3 separate map instances open at the same time as of version 3.0. 
+As of the patch 3.0.2. The way spectre works has been changed( for the better ).
 
--   The Templar Laboratory
--   The Chambers of Sin
--   Your HideOut
+> Desecrate can now only create monsters that are in the instance it is used in. In areas where no monsters have spawned, a specific desecrate table is used. *This fixes a longstanding bug with the desecration list that had further problems introduced due to persistent spectres.*
 
-You will be able to hold maps that you know has the spectre you are looking for. I believe a campaign instance remains open for 8-12 mins. It will be annoying to double back but saving a corpse is possible.
-
-You can also make an alternate character and open another instance of poe to "save" your high level corpses.
+- Spectre will not disappear on logout
+- Spectre will disappear on death
+- Desecrate can now spawn corpses of your currently raised spectre no matter the map, unless the zone specially states it can only spawn on type of monster
 
 ---
 
@@ -227,15 +223,6 @@ http://poedb.tw/us/mon.php?n=Flame+Sentinel
 
     >Campaign: Templar Laboratory(Lv68)
     >
-    >T10: Quay, Colonnade, Courtyard
-    >
-    >T15: Shaped Quay, Shaped Colonnade, Shaped Courtyard
-    >
-    >T16: Hydra, Minotaur
-    >
-    >T17: Shaper Realm
-    >
-    >- Any Map that rolls the "Solar Mod"
 
 -   Videos:
 
@@ -295,13 +282,6 @@ http://poedb.tw/us/mon.php?n=Undying+Incinerator
 
   > Campaign: Crematorium(Lv25)
   >
-  > T10: Quay, Colonnade, 
-  >
-  > T11: Crematorium Map
-  >
-  > T15: Shaped Quay, Shaped Colonnade
-  >
-  > T16: Hydra, Minotaur
 
 - Videos:
 
@@ -350,14 +330,6 @@ http://poedb.tw/us/mon.php?n=Goatman+Fire-raiser
   > Campaign: Crematorium(Lv25)
   >
   > T6: Canyon
-  >
-  > T11: Shaped Canyon
-  >
-  > T13: Gorge
-  >
-  > T16: Hydra, Minotaur
-  >
-  > T17: Shaper Realm
   >
   > - Any Map that rolls the "with Goatmen or with Animals Mod"
 
@@ -857,7 +829,9 @@ http://poedb.tw/us/mon.php?n=Cannibal+Fire-eater
 | Videos    |                                          |
 | Locations | Shaped/Shore maps,                       |
 
-*extra notes*
+
+
+extra notes*
 
 <img src="http://i.imgur.com/NrZNqOe.png" >
 
@@ -894,8 +868,7 @@ http://poedb.tw/us/mon.php?n=Tukohama%27s+Vanguard
 
 - Suggested Links:
 
-  > **Clear:**
-  > Minion Damage + Elemental Focus + Increased Burning Damage + Swift Affliction + Spell Echo
+  > ​
   >
   > **Boss:**
   >
