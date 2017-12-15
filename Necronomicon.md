@@ -296,9 +296,9 @@ Same goes for Spell Echo. If you don't want the first part of the skill to echo(
 
 ### On Raise Spectre Zone level scaling
 
-When you use Raise Spectre on a corpse. The monster summoned will be equal to the level of that zone. If you raise a level 50 monster it will be a level 50 monster. Spectre's will zone down but NOT up. What I mean by this is if you take that level 50 monster and bring it to a level 1 zone it will be level 1. However, if you bring that level 50 monster to a level 100 zone it will have the stats of a level 50.
+When you use Raise Spectre on a corpse. The monster summoned will be equal to the level of that zone. If you raise a level 50 monster it will be a level 50 monster. Spectre's will stay at the level it was summoned at but will not increase in level. What I mean by this is if you take that level 50 monster and bring it to a level 1 zone it will be level 50. However, if you bring that level 50 monster to a level 100 zone it will have the stats of a level 50.
 
-This is why getting a high level spectre is so important for high level map content. They have vastly higher stats like damage and life.
+This is why getting a high level spectre is so important for high level map content. They have vastly higher stats like damage and life. Ideally you want to summon spectre at the highest tier of maps possible so you always have the most optimal spectre damage and defense values.
 
 ---
 
