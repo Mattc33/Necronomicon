@@ -222,14 +222,14 @@ http://poedb.tw/us/mon.php?n=Flame+Sentinel
 
     >Campaign: Templar Laboratory(Lv68)
     >
-<<<<<<< HEAD
+    ><<<<<<< HEAD
     >T10: Quay, Colonnade, Courtyard
     >
     >T15: Shaped Quay, Shaped Colonnade, Shaped Courtyard
     >
-    >- Any Map that rolls the "Solar Mod"
-=======
->>>>>>> 164bed83307897ea0c2134bbbf02b828d7ca6524
+    > - Any Map that rolls the "Solar Mod"
+
+
 
 -   Videos:
 
@@ -358,7 +358,6 @@ http://poedb.tw/us/mon.php?n=Goatman+Fire-raiser
 
 ---
 
-<<<<<<< HEAD
 #### Wicker Man
 
 One of the best "Melee" Spectre to come from the 3.0 Update. They cast a monster version of righteous fire  called Unrighteous Fire that burns with a flat damage that scales with their level. Unlike burned Miscreation's they have an amazing filler skill in the form of molten strike. The best way to build these guys is to scale their burn.
@@ -423,8 +422,6 @@ http://poedb.tw/us/mon.php?n=Wicker+Man
 
 ---
 
-=======
->>>>>>> 164bed83307897ea0c2134bbbf02b828d7ca6524
 #### Solar Guard
 
 <img src="https://i.imgur.com/sBjbjIa.png" width="500"/>
@@ -817,10 +814,6 @@ Suggested Links:
 
 *extra notes*
 =======
-
-
-extra notes*
->>>>>>> 164bed83307897ea0c2134bbbf02b828d7ca6524
 
 <img src="http://i.imgur.com/NrZNqOe.png" >
 
